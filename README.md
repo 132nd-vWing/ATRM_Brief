@@ -13,5 +13,11 @@ Participating pilots must sign up via the 132nd Virtual Wing's event page, for w
 ## Admin
 ## For Controllers/AWACS
 
+
+
+## RANGES
+
+[Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 10 ](/ATRM_Brief/Ranges/Range10.md)  |
+
 Resources for the new training mission will be added here.
  
