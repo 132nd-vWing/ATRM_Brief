@@ -18,13 +18,13 @@ Participating pilots must sign up via the 132nd Virtual Wing's event page, for w
 ## RANGES
 
 
-![Ranges and MOAs](/ATRM_Brief/Pictures/Range_MOA_overview.png)
+![Ranges and MOAs](/ATRM_Brief/Pictures/Range_MOA_overview.PNG)
 
 
 [Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 10 ](/ATRM_Brief/Ranges/Range10.html)  |
 
 
-
+![Ranges and MOAs](/Pictures/Range_MOA_overview.PNG)
 
 
 Resources for the new training mission will be added here.
