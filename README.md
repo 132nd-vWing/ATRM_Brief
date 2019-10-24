@@ -10,23 +10,29 @@ This page provides information necessary for participation in training missions 
 Participating pilots must sign up via the 132nd Virtual Wing's event page, for which registration is required. The event can be found [here](http://www.132virtualwing.org/index.php/page/events). If you do not have an account on the 132nd Virtual Wing website, please PM 132nd.Neck on Discord and ask for an account.
 
 ## Situation
+
+
+
 ## Admin
+[CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)
+
+
 ## For Controllers/AWACS
 
 ### Radio frequencies
-[Presets](/Pages/Presets.md)
+[Radio frequencies](/Pages/Presets.md)
 
-[Presets2](/ATRM_Brief/Pages/Presets.html)
+
 
 
 
 ## RANGES
 
 
-![Ranges and MOAs](/ATRM_Brief/Pictures/Range_MOA_overview.PNG)
 
 
-[Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 10 ](/ATRM_Brief/Ranges/Range10.html)  |
+
+[Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |  [Range 5](/ATRM_Brief/Ranges/Range5.html)  |
 
 
 ![Ranges and MOAs](/Pictures/Range_MOA_overview.PNG)
