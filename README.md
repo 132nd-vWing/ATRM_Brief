@@ -14,9 +14,9 @@ Participating pilots must sign up via the 132nd Virtual Wing's event page, for w
 ## For Controllers/AWACS
 
 ### Radio frequencies
-[Presets](/Documents/Presets.md)
+[Presets](/Pages/Presets.md)
 
-[Presets2](/ATRM_Brief/Documents/Presets.html)
+[Presets2](/ATRM_Brief/Pages/Presets.html)
 
 
 
