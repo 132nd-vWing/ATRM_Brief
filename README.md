@@ -17,6 +17,10 @@ Participating pilots must sign up via the 132nd Virtual Wing's event page, for w
 [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)
 
 
+Flight Information Publication in use are available here:
+[FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
+
+
 ## For Controllers/AWACS
 
 ### Radio frequencies
