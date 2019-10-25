@@ -36,7 +36,7 @@ Flight Information Publication in use are available here:
 
 
 
-[Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |   [Range 7 ](/ATRM_Brief/Ranges/Range7.html)  | [Range 10](/ATRM_Brief/Ranges/Range10.html)  |
+[Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |   [Range 7 ](/ATRM_Brief/Ranges/Range7.html)  | [Range 10](/ATRM_Brief/Ranges/Range10.html)  |  [Range 14](/ATRM_Brief/Ranges/Range14.html)  |
 
 
 ![Ranges and MOAs](/Pictures/Range_MOA_overview.PNG)
