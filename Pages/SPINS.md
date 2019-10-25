@@ -66,15 +66,13 @@ rules of engagement.
 - Pattern/racetrack in known enemy territory
 - Point of Origin at enemy airfield or enemy territory (OUTLAW)
 - Conducting aerial refueling
-- Formation of 2 or more aircraft
 <br>
 <br>
 <br>
 #### Hostile Act / Hostile intention
-- Hot toward friendlies, with a groundspeed of 500kts or higher
 - Locking up friendlies in order to engage
 - Delivery of A-A or A-G munitions toward any friendlies  (Sensors: EO, Visual, RWR)
-- Maneuvering to obtain tactical advantage
+- Maneuvering to obtain tactical advantage (HOT, with high speed)
 <br>
 <br>
 <br>
@@ -99,6 +97,7 @@ rules of engagement.
 <br>
 #### HOSTILE:
 - Hostile act/Hostile intention 
+- Lack of Friendly indications AND 4x Positive enemy indications
 <br>
 <br>
 <br>
@@ -107,12 +106,12 @@ rules of engagement.
 <br>
 ### Weapons status
 #### Weapons free:
-- Cleared to engage on targets not identified as friendly ( Bogey, bandit and Hostile)
+- Cleared to engage on targets not identified as friendly or bogey ( Bandit and Hostile)
 <br>
 <br>
 <br>
 #### Weapons tight:
-- Cleared to engage on targets positivly identified as hostile and bandit
+- Cleared to engage on targets positivly identified as hostile.
 <br>
 <br>
 <br>
@@ -122,7 +121,7 @@ rules of engagement.
 <br>
 <br>
 #### Default status
-- Unless something else is briefed, the default status is weapons thight.
+- Unless something else is briefed, the default status is weapons free.
 <br>
 <br>
 <br>
