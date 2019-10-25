@@ -15,7 +15,7 @@ To be developed
 
 ## T6.2 Ammuniton site
 
-![Ammunition site](/Pictures/T6_2.PNG)
+![Ammunition site](/ATRM_Brief/Pictures/T6_2.PNG)
 
 
 
@@ -23,7 +23,7 @@ To be developed
 
 ## T6.3 Fuel site
 
-![Fuel site](/Pictures/T6_3.PNG)
+![Fuel site](/ATRM_Brief/Pictures/T6_3.PNG)
 <br>
 <br>
 <br>
