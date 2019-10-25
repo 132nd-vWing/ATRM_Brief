@@ -65,11 +65,13 @@ rules of engagement.
 - Visual ID to known enemy unit (Either visual observation or onboard sensors such as EO)
 - Pattern/racetrack in known enemy territory
 - Point of Origin at enemy airfield or enemy territory (OUTLAW)
+- Conducting aerial refueling
+- Formation of 2 or more aircraft
 <br>
 <br>
 <br>
 #### Hostile Act / Hostile intention
-- Hot toward friendlies with a speed of 500kts or higher
+- Hot toward friendlies, with a groundspeed of 500kts or higher
 - Locking up friendlies in order to engage
 - Delivery of A-A or A-G munitions toward any friendlies  (Sensors: EO, Visual, RWR)
 - Maneuvering to obtain tactical advantage
