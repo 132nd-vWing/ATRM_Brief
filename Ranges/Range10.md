@@ -13,6 +13,7 @@ Activating this range will spawn in dynamicly targets for a AR tasking.
 
 **AR Mission**
 We have intelligence about enemy activity in the killbox (AR zone). Your mission is to conduct a AR mission in the AR zone.
+Intelligence is that the enemy formation is located somewhere between 3 villages (Navpoints: T10.2 , T10.3 and T10.4 )
 Task is to locate enemy targets in the killbox. Identify if the enemy formation is either:
 1. Motorized infantry BN
 2. Mechanized infantry BN

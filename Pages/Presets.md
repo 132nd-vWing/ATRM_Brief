@@ -4,16 +4,18 @@ The following frequencies are used in this mission:
 ### Frequency masterfile:  [Frequency masterfile](/ATRM_Brief/Files/ATRM (Persian Gulf) Frequency and Callsign master list.xlsx)
 
 
-### Frequency onepager:  [Onepage frequency](/ATRM_Brief/Files/ATRM freqs overview v1.0.pdf)
+### Frequency onepager:  [Onepage frequency](/ATRM_Brief/Files/ATRM freqs overview.pdf)
 
 # Frequency presets
 The following presets are programmed into the aircraft:
 
-### F/A-18C Presets:  [F/A-18C](/ATRM_Brief/Files/ATRM F18 Presets v1.0.pdf)
+### F/A-18C Presets:  [F/A-18C](/ATRM_Brief/Files/ATRM F18 Presets.pdf)
 
-### F-16C Presets:  [F-16C](/ATRM_Brief/Files/ATRM F16 Presets v1.0.pdf)
+### F-16C Presets:  [F-16C](/ATRM_Brief/Files/ATRM F16 Presets.pdf)
 
-### KA-50 Presets:  [KA-50](/ATRM_Brief/Files/ATRM KA50 Presets v1.0.pdf)
+### KA-50 Presets:  [KA-50](/ATRM_Brief/Files/ATRM KA50 Presets.pdf)
+
+### A-10C Presets:  [A-10C](/ATRM_Brief/Files/ATRM A10 Presets.pdf)
 
 
 
