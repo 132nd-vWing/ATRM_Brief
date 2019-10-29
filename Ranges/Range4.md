@@ -14,7 +14,7 @@ This target is ideal for basic weapon deliveries.
 
 
 ### Resources
-[Target information T4.1](/ATRM_Brief/Files/ATRM_RANGE4_T4.1.PDF)  
+[Target information T4.1](/ATRM_Brief/Files/ATRM_RANGE4_T4.1.pdf)  
 
 
 
