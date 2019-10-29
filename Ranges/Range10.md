@@ -34,7 +34,10 @@ High Value Target list:
 
 ### AI
 Target 10.1 is a target complex consisting of 2x storages and 2 x ammunition depots  
-(SCENARIO AND TARGET INFORMATION NEED TO BE ADDED)
+
+#### DPIs (Desired Point of Impacts)
+- Storage NORTH: N22 48.817 E057 15.190 , elevation 1509ft
+- Storage SOUTH: N22 48.761 E057 15.246, elevation 1509ft
 
 
 ### SEAD  
