@@ -5,6 +5,13 @@ Note:
 
 <br>
 
+### AIRSPACE MANAGED BY THE 176th vSQN
+
+### [OMAM TMA]
+- Speed Restrictions 250 KIAS in effect below FL100 within the TMA
+
+<br>
+
 ### AIRBASES MANAGED BY THE 176th vSQN
 
 ### [OMAM] Al Dhafra Airbase
