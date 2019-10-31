@@ -1,5 +1,7 @@
 # AIRSPACE MANAGEMENT
-Note: The following charts and instructions are superseeded by active NOTAMs and SPINS
+Note: 
+- The following charts and instructions are superseeded by active NOTAMs and SPINS
+- The following charts and instructions superseeds the TTP-5 ATC and Airbase operations
 
 <br>
 
@@ -13,7 +15,7 @@ Note: The following charts and instructions are superseeded by active NOTAMs and
 
 <br>
 
-### [OMNK] Sas Al Nakhl
+### [OMNK] Sas Al Nakhl Airbase
 [Visual Navigation Chart - OMAM/OMNK](/ATRM_Brief/Files/VAC-OMAM.pdf)
 
 ##### Notes - RWY16:
@@ -23,6 +25,7 @@ Note: The following charts and instructions are superseeded by active NOTAMs and
 - Curtesy check-in with CTRL before departure encouraged
 
 ##### Notes - RWY34:
+- Contact CTRL before exiting AL NAKHL CTR at NORA
 - Curtesy check-in with CTRL before departure encouraged
 
 <br>
