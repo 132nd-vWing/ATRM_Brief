@@ -42,5 +42,11 @@ Flight Information Publication in use are available here:
 ![Ranges and MOAs](/Pictures/Range_MOA_overview.PNG)
 
 
+
+## Terminal Maneuver Area (TMA) and Transit Corridors (TC)
+
+![TMA and transit corridors](/Pictures/Transitcorridors.PNG)
+
+
 Resources for the new training mission will be added here.
  
