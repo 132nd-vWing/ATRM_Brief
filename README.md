@@ -14,7 +14,7 @@ Participating pilots must sign up via the 132nd Virtual Wing's event page, for w
 
 
 ## Admin
-[CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  |   [Standing SPINS](/ATRM_Brief/Pages/SPINS.html)  |  [Carrier admin](/ATRM_Brief/Pages/Carrier.html)  |
+[CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  |   [Standing SPINS](/ATRM_Brief/Pages/SPINS.html)  |  [Carrier admin](/ATRM_Brief/Pages/Carrier.html)  |  [Flight information](/ATRM_Brief/Pages/Flights.html)  |
 
 
 Flight Information Publication in use are available here:
