@@ -5,6 +5,8 @@
 <br>
 Note that there are aircrafts at other bases and carriers, but the default base is Al Dahfra. State airbase in flightplan when filing the flightplan.
 
+Also note that when you select an aircraft at Al Dahfra, lower number will put you closer to RWY 13, while higher numbers will put you closer to RWY 31.
+
 
 ## F/A-18C
 
