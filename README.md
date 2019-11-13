@@ -48,5 +48,7 @@ Flight Information Publication in use are available here:
 ![TMA and transit corridors](/Pictures/Transitcorridors.PNG)
 
 
-Resources for the new training mission will be added here.
+
+## Exercises
+[Exercise Red Storm](/ATRM_Brief/Pages/Exredstorm.html)  | 
  
