@@ -17,6 +17,10 @@ Combat operations is taking place on the flot between red and blue territory
 
 
 
+### Strike targets:  [Targets](/ATRM_Brief/Targets/EX RED STORM - Strike targets.pdf)
+
+
+
 
 
 ## Back
