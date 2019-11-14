@@ -13,6 +13,11 @@ Combat operations is taking place on the flot between red and blue territory
 
 
 
+![Exercise RED STORM scenario Details](/ATRM_Brief/Pictures/EX_REDSTORM_DETAILS.PNG)
+
+
+
+
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
