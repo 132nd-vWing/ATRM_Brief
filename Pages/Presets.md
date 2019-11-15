@@ -4,7 +4,7 @@ The following frequencies are used in this mission:
 ### Frequency masterfile:  [Frequency masterfile](/ATRM_Brief/Files/ATRM (Persian Gulf) Frequency and Callsign master list.xlsx)
 
 
-### Frequency onepager:  [Onepage frequency](/ATRM_Brief/Files/ATRM freqs overview.pdf)
+### Frequency onepager:  [Twopager frequency](/ATRM_Brief/Files/ATRM freqs overview.pdf)
 
 # Frequency presets
 The following presets are programmed into the aircraft:
