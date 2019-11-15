@@ -16,6 +16,7 @@ This is the SPINS for EX RED STORM
 <br>
 <br>
 ### Codewords
+
 | MEANING | CODEWORD | 
 | ------- | -------- | 
 | ON STATION | ALABAMA | 
@@ -35,11 +36,13 @@ This is the SPINS for EX RED STORM
 | FEET WET | OHIO |
 | FEET DRY | PHILIPPINES |
 
+
 ### RAMROD
 
 | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
 | - | - | - | - | - | - | - | - | - | - |
 | B | L | A | C | K | H | O | R | S | E |
+
 <br>
 <br>
 <br>
@@ -48,10 +51,7 @@ This is the SPINS for EX RED STORM
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 ## STANDINGSPINS EX RED STORM
 ## ATC
 ### Airfields
@@ -119,32 +119,32 @@ The left side of the tanker is to be used for joining aircraft. The first receiv
 CALLSIGN: ARCO <br>
 FREQUENCY:  151.0 <br>
 TACAN: 39X <br>
-ALTITUDE: FL200
-SPEED: M0.6
+ALTITUDE: FL200 <br>
+SPEED: M0.6<br>
 LOCATION: IAW Airspace Control Order (ACO) <br>
 
 **AR203: KC-135:**<br>
 CALLSIGN: ARCO <br>
 FREQUENCY:  140.0 <br>
 TACAN: 49X <br>
-ALTITUDE: FL200
-SPEED: M0.6
+ALTITUDE: FL200<br>
+SPEED: M0.6<br>
 LOCATION: IAW Airspace Control Order (ACO) <br>
 
 **AR301: KC-135 MPRS:**<br>
 CALLSIGN: SHELL <br>
 FREQUENCY:  149.0 <br>
 TACAN: 40Y <br>
-ALTITUDE: FL200
-SPEED: M0.6
+ALTITUDE: FL200<br>
+SPEED: M0.6<br>
 LOCATION: IAW Airspace Control Order (ACO) <br>
 
 **AR305: KC-135 MPRS:**<br>
 CALLSIGN: SHELL <br>
 FREQUENCY:  139.0 <br>
 TACAN: 80Y <br>
-ALTITUDE: FL200
-SPEED: M0.6
+ALTITUDE: FL200<br>
+SPEED: M0.6<br>
 LOCATION: IAW Airspace Control Order (ACO) <br>
 <br>
 <br>
@@ -168,7 +168,7 @@ LOCATION: IAW Airspace Control Order (ACO) <br>
 <br>
 ## Air-to-Air INSTRUCTIONS
 
-###Definitions:
+### Definitions:
 
 #### Friendly 
 A contact that is part of own coalition.

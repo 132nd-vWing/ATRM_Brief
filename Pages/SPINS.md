@@ -159,7 +159,7 @@ rules of engagement.
 <br>
 ## Color Coded Frequencies
 
-![132nd colored freqs](/ATRM_Brief/Files/Pictures/Frequencys.PNG)
+![132nd colored freqs](/ATRM_Brief/Pictures/Frequencys.PNG)
 
 
 <br>
