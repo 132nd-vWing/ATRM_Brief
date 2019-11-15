@@ -32,15 +32,20 @@ Enemy units are eastern units.
 
 ## Ground situation
 ![Exercise RED STORM Ground situation](/ATRM_Brief/Pictures/EX_REDSTORM_JTAC.PNG)
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Important information
-[SPINS EX RED STORM](/ATRM_Brief/ExRedStorm/SPINS_RedStorm.html) |  [ADMIN EX RED STORM](/ATRM_Brief/ExRedStorm/ADMIN_RedStorm.html)
+[SPINS EX RED STORM](/ATRM_Brief/ExRedStorm/SPINS_RedStorm.html) |  [ADMIN EX RED STORM](/ATRM_Brief/ExRedStorm/ADMIN_RedStorm.html)  | [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  | [Flight information](/ATRM_Brief/Pages/Flights.html)  |  [Targets](/ATRM_Brief/Targets/EX RED STORM - Strike targets.pdf)
+<br>
+<br>
+<br>
+<br>
 
-##### Strike targets:  [Targets](/ATRM_Brief/Targets/EX RED STORM - Strike targets.pdf)
 
 
 ## Scenario overview
