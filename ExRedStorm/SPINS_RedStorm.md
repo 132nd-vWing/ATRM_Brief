@@ -58,7 +58,7 @@ This is the SPINS for EX RED STORM
 #### ATC Frequencies in use:
 Al Dahfra TWR: 126.2 <br>
 Al Dahfra ATIS: 126.4 <br>
-Al Dahfra Control: 126.9 <br>
+Al Dahfra Control: 127.1 <br>
 <br> 
 
 Al Minhad TWR: 121.2 <br>
