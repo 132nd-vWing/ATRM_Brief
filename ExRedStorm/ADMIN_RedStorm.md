@@ -8,6 +8,7 @@
 ## RED RESPAWN/REGEN point
 - Threatsite 16, simulating RED airfield. Descend below 1000ft at Threatsite 16 before climbing and returning to action.
 - Threatsite 14, simulating RED airfield. Descend below 1000ft at Threatsite 14 before climbing and returning to action.
+- Fujaihra airfield
 - Or as coordinated by AWACS (Red and Blue controller).
 
 
