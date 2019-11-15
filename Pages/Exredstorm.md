@@ -6,7 +6,7 @@ Scenario is a classic war scenario, BLUE vs RED.
 BLUE is controlling the western area, with RED areas beeing EAST and NORTH (Khasab).
 Combat operations is taking place on the flot between red and blue territory
 
-[SPINS EX RED STORM](/ATRM_Brief/ExRedStorm/SPINS_RedStorm.html)
+[SPINS EX RED STORM](/ATRM_Brief/ExRedStorm/SPINS_RedStorm.html) |  [ADMIN EX RED STORM](/ATRM_Brief/ExRedStorm/ADMIN_RedStorm.html)
 
 ##### Strike targets:  [Targets](/ATRM_Brief/Targets/EX RED STORM - Strike targets.pdf)
 
