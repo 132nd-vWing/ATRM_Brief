@@ -39,7 +39,7 @@ Also note that when you select an aircraft at Al Dahfra, lower number will put y
 | ------ | ---- | ------ | -------- | -------- | ---- | --- |
 **VIPER**    |62Y-125Y| PER ATO | PER ATO |1611-1614|4411-4414| AL DAHFRA  | N/A |
 **CHEVY**   |63Y-126Y| PER ATO | PER ATO |1621-1624|4421-4424| AL DAHFRA  | N/A |
-**DAGGER**   |64Y-127Y| PER ATO | PER ATO |1631-1634|4431-4434| AL DAHFRA  | N/A |
+**DAGGER**   |10Y-73Y| PER ATO | PER ATO |1631-1634|4431-4434| AL DAHFRA  | N/A |
 
 
 
@@ -47,9 +47,11 @@ Also note that when you select an aircraft at Al Dahfra, lower number will put y
 
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
 | ------ | ---- | ------ | -------- | -------- | ---- | --- |
-**ANGRY**    |90Y-153Y| PER ATO | PER ATO |1615-1618|N/A| AL DAHFRA  | N/A |
-**DEVIL**    |91Y-154Y| PER ATO | PER ATO |1625-1628|N/A| AL DAHFRA  | N/A |
-**RAGE**    |92Y-155Y| PER ATO | PER ATO |1635-1638|N/A| AL DAHFRA  | N/A |
+**ANGRY**    |05Y-68Y| PER ATO | PER ATO |1615-1618|N/A| AL DAHFRA  | N/A |
+**DEVIL**    |06Y-69Y| PER ATO | PER ATO |1625-1628|N/A| AL DAHFRA  | N/A |
+**RAGE**    |07Y-70Y| PER ATO | PER ATO |1635-1638|N/A| AL DAHFRA  | N/A |
+**HUNTER**    |08Y-71Y| PER ATO | PER ATO |1635-1638|N/A| AL DAHFRA  | N/A |
+**NINJA**    |09Y-72Y| PER ATO | PER ATO |1635-1638|N/A| AL DAHFRA  | N/A |
 
 ## A-10C
 
