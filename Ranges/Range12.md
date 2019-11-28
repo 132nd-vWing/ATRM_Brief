@@ -39,7 +39,7 @@ Target 12.7 is a Bed Down Location (BDL) for a High Value Target (HVT).
 
 
 ## Armed reconissance scenario
-[Range 12 AR scenario](/ATRM_Brief/Targets/R12_AR_TASK.html)  
+[Range 12 AR scenario](/ATRM_Brief/Pages/R12_AR_TASK.html)  
 
 <br>
 <br>
