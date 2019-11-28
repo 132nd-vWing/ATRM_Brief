@@ -40,7 +40,7 @@ Enemy units are eastern units.
 <br>
 <br>
 ## Important information
-[SPINS EX RED STORM](/ATRM_Brief/ExRedStorm/SPINS_RedStorm.html) |  [ADMIN EX RED STORM](/ATRM_Brief/ExRedStorm/ADMIN_RedStorm.html)  | [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  | [Flight information](/ATRM_Brief/Pages/Flights.html)  |  [Targets](/ATRM_Brief/Targets/EX RED STORM - Strike targets.pdf)
+[SPINS EX RED STORM](/ATRM_Brief/ExRedStorm/SPINS_RedStorm.html) |  [Air-to-Air Training rules EX RED STORM](/ATRM_Brief/ExRedStorm/ADMIN_RedStorm.html)  | [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  | [Flight information](/ATRM_Brief/Pages/Flights.html)  |  [Targets](/ATRM_Brief/Targets/EX RED STORM - Strike targets.pdf)
 | [Radio frequencies](/ATRM_Brief/Pages/Presets.html) | [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) |
 <br>
 <br>

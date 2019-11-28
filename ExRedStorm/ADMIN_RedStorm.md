@@ -1,4 +1,4 @@
-# ADMIN AND COORDINATIOIN - EXERCISE RED STORM
+# Air-to-Air training rules - EXERCISE RED STORM
 ## Action on kill message
 - BLUE: When engaged by SAM, continue.  Debrief point
 - BLUE: When engaged by Red Air, continue mission, try to defeat threat.
