@@ -11,7 +11,7 @@ SAMs will be spawned in in accordance with the AR dynamic targets).
 
 ![KILLBOX VENUS](/ATRM_Brief/Pictures/R10_Killbox_VENUS.PNG)
 
-See COmbatflite file for additional details.
+See Combatflite file for additional details.
 
 Activating this range will spawn in dynamicly targets for a AR tasking.
 
@@ -34,7 +34,7 @@ High Value Target list:
 2. MLRS rocket launcers
 
 
-(Reference for enemy formation: Ground doctrine from OPUF: https://132nd-vwing.github.io/OPUF-Brief/Docs/Enemy/Ground_Force_Structure.html )  - NEED TO BE CREATED INTO A GENERAL DOCTRINE AND ADDED FOR THIS MISSION
+For detailed information about Red Force ground doctrine, please look at: [Red Force Doctrine](/ATRM_Brief/Files/Generic_groundforce.html)  
 
 ### AI
 Target 10.1 is a target complex consisting of 2x storages and 2 x ammunition depots  

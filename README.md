@@ -22,9 +22,9 @@ The 132nd host various advanced training exercises. <br>
 
 [Exercise Red Storm](/ATRM_Brief/Pages/Exredstorm.html)  | 
 
-## Admin
+## Important information
 [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  |   [Standing SPINS](/ATRM_Brief/Pages/SPINS.html)  |  [Carrier admin](/ATRM_Brief/Pages/Carrier.html)  |  [Flight information](/ATRM_Brief/Pages/Flights.html)  |
-
+[Red Force Doctrine](/ATRM_Brief/Files/Generic_groundforce.html)  | 
 
 Flight Information Publication in use are available here:
 [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
