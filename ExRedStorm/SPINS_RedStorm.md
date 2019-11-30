@@ -8,7 +8,7 @@ This is the SPINS for EX RED STORM
 <br>
 ## WEEKLY SPINS EX RED STORM
 ### Bullseye
-- Bullseye JENNY in use (See combatflite file)
+- Bullseye MARY in use (See combatflite file)
 <br>
 <br>
 <br>
