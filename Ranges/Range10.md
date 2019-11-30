@@ -5,9 +5,13 @@ Range 10 is a multipurpose range that can be used for AR/SCAR/AI/SEAD/PACKAGE/A-
 
 
 ### AR / SCAR
-In the northern part of the range are a AR zone (killbox). This AR tasking can be activated via F10 menu. (optional also to activate SAMs in support with the AR scenario. 
+In the northern part of the range are a AR zone (KILLBOX VENUS). This AR tasking can be activated via F10 menu. (optional also to activate SAMs in support with the AR scenario. 
 SAMs will be spawned in in accordance with the AR dynamic targets).
-(PICTURE OF THE KILLBOX NEED TO BE ADDED - AND ALSO ADDED IN THE GENERAL COMBAT FLITE FILE)
+
+
+![KILLBOX VENUS](/Pictures/R10_Killbox_VENUS.PNG)
+
+See COmbatflite file for additional details.
 
 Activating this range will spawn in dynamicly targets for a AR tasking.
 
