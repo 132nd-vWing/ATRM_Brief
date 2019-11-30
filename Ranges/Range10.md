@@ -34,7 +34,7 @@ High Value Target list:
 2. MLRS rocket launcers
 
 
-For detailed information about Red Force ground doctrine, please look at: [Red Force Doctrine](/ATRM_Brief/Files/Generic_groundforce.html)  
+For detailed information about Red Force ground doctrine, please look at: [Red Force Doctrine](/ATRM_Brief/Pages/Generic_groundforce.html)  
 
 ### AI
 Target 10.1 is a target complex consisting of 2x storages and 2 x ammunition depots  
