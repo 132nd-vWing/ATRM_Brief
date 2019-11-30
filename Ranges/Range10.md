@@ -9,7 +9,7 @@ In the northern part of the range are a AR zone (KILLBOX VENUS). This AR tasking
 SAMs will be spawned in in accordance with the AR dynamic targets).
 
 
-![KILLBOX VENUS](/Pictures/R10_Killbox_VENUS.PNG)
+![KILLBOX VENUS](/ATRM_Brief/Pictures/R10_Killbox_VENUS.PNG)
 
 See COmbatflite file for additional details.
 
