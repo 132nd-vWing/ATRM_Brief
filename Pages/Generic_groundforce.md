@@ -153,8 +153,7 @@ MBT Company 3 | Company 3 | Support Company |         |
 			  
 			  
 			  
-<br>				  
-<br>			  
+			  
 <br>	
 <br>	
 <br>		
@@ -203,8 +202,7 @@ Mechanized Infantry Company 3 | Company 3 | Support Company |         |
               | Platoon 31 | Support platoon  | 3 x Utility vehicles |
               | Platoon 32 | Support platoon  | 3 x Utility vehicles |
 
-<br>				  
-<br>			  
+			  
 <br>	
 <br>	
 <br>		
@@ -258,10 +256,9 @@ Motorized Infantry Company 3 | Company 3 | Support Company |         |
 
 
 
-<br>
-<br>
+
 <br>
 <br>
 <br>
 ## Back
-[Back to frontpage](https://132nd-vwing.github.io/OPUF-Brief/)
+[Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
