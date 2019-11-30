@@ -12,7 +12,7 @@
 - Ras Al Khaimai airfield (Land , touch and go)
 - Khasab airfield (Land , touch and go)
 - Red carrier (Land , touch and go)
-- Or as coordinated by AWACS (Red and Blue controller).
+- Or as coordinated by AWACS (Red and Blue controller)
 
 
 ## Action on RED RESPAWN/REGEN
