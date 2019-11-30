@@ -39,6 +39,10 @@ RED FORCE are using the following airbases:
 
 RED FORCE normal way of operating is having one flight on CAP over own territory, supported by one flight on ground alert on one of the airbases, or on the carrier.
 
+[Red Force Air Defence Doctrine (SAMs)](/ATRM_Brief/Pages/Generic_airdefence.html)  
+
+
+
 #### Enemy situation - Ground
 A enemy mechanized infantry regiment is located at HATTA, and is expected to commence their offensive against friendly lines at JTAC WARRIOR location.
 Enemy units are eastern units. 
