@@ -3,7 +3,9 @@
 RED FORCE Ground Forces operate in accordance with the following doctrine:
 
 RED FORCE have a Russian based military force. The primary elements for conducting major military operations are Regiments.
+<br>
 Supporting the maneouver regiments are various other units such as artillery battalion, Rocket artillery battalion, Recon company, Logistical Battalions
+<br>
 In addition the Regiments will normally be attached an Air Defence Battalion to protect against air threats [See: Air Defence Doctrine](Air_Defence_Doctrine.MD)
 <br>
 <br>
@@ -14,11 +16,14 @@ RED FORCE have 3 standard maneuverregiments:
 - Mechanized Infantry Regiment: Infantry Fighting Vehicles (IFV's) as the primary weapon.
 - Motorized Infantry Regiment: Armored Personell Carriers (APC's) as the primary weapon.
 <br>
+<br>
 The Armoured Regiments are considered the primary fighting force for offensive operations, and will normally be conserved as much as possible for counterattacks
 or offensive operations.
 <br>
+<br>
 All three types of regiments can conduct both offensive and defensive operations, however, the Motorized Infantry Regiments are not well suited for offensive operations
 and is normally only used for defensive operations, or supporting the other regiments.
+<br>
 <br>
 Each Regiment consist of 2 maneuver Battalions (with MBT, IFV or APC), the Regiment will also have a artillery battery attached in direct support, the Regiment 
 is led by a Regimental HQ platoon.
@@ -29,6 +34,7 @@ is led by a Regimental HQ platoon.
 Recon Companys have specially trained personell to call in airstrikes, artillery or collect intelligence.
 Recon units work in smaller units, and relies on not getting detected while doing their missions. The Recon units are normally
 supporting other units, either in direct support (attached to a specific unit) or in general support (providing ad-hoc support).
+<br>
 <br>
 A Recon Company is broken down into 3 platoons.
 <br>
@@ -41,7 +47,7 @@ The last team normally inserts via helicopter, walking, or other non-traditional
 ## Artillery Battalion
 A artillery battalion consists of 3 artillery batteries and a HQ element to coordinate the fires from supporting units.
 <br>
-The artillery batteru are equipped with 3x SPH 2S19 Msta launchers and 2x supply trucks.
+The artillery battery are equipped with 3x SPH 2S19 Msta launchers and 2x supply trucks.
 <br>
 The HQ consist of  1x CP SKP-11 ATC Mobile Command Post, 2x CP Ural-375 PBU, 3x Ural-4320T
 <br>
@@ -81,7 +87,7 @@ For defensive operations the support platoons organic to the maneuver battalions
 ### Indicators
 The following indicators can help identify if forces are going on the offensive or on the defensive. These indicators can aid pilots for filling out the After Action Reports
 with necessary intelligence that can be valuable for next operations.
-
+<br>
 - Assembly of Artillery units bigger than artillery battery (3 artillery tubes)
 - Assembly of Rocket artillery
 - Large formations of utility veichles  ( fueltrucks, ammunition trucks, trucks) close to maneuver battalions.
