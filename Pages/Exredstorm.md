@@ -23,10 +23,6 @@ JTAC WARRIOR is located IVO a small friendly outpost to take up the fight agains
 Friendly forces are enroute to reinforce the FOB and strengthen the defenses. Friendlies can either arrive from the NORTH or SOUTH of JTAC WARRIORs location.
 Friendly units are western units.
 
-#### Enemy situation - Ground
-A enemy mechanized infantry regiment is located at HATTA, and is expected to commence their offensive against friendly lines at JTAC WARRIOR location.
-Enemy units are eastern units. 
-
 
 #### Enemy situation - Air
 RED FORCE have 3 FW squadrons doing both A-A and A-G missions. In addition, RED FORCE have AWACS (E-2) and a couple of tankers (KC-135, KC-135 MPRS and S-3 Viking)
@@ -43,10 +39,13 @@ RED FORCE are using the following airbases:
 
 RED FORCE normal way of operating is having one flight on CAP over own territory, supported by one flight on ground alert on one of the airbases, or on the carrier.
 
+#### Enemy situation - Ground
+A enemy mechanized infantry regiment is located at HATTA, and is expected to commence their offensive against friendly lines at JTAC WARRIOR location.
+Enemy units are eastern units. 
 
 
 ##### Enemy ground force doctrine
-[Red Force Doctrine](/ATRM_Brief/Pages/Generic_groundforce.html)   
+[Red Force ground doctrine](/ATRM_Brief/Pages/Generic_groundforce.html)   
 
 ## Ground situation
 ![Exercise RED STORM Ground situation](/ATRM_Brief/Pictures/EX_REDSTORM_JTAC.PNG)
