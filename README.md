@@ -24,7 +24,7 @@ The 132nd host various advanced training exercises. <br>
 
 ## Important information
 [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  |   [Standing SPINS](/ATRM_Brief/Pages/SPINS.html)  |  [Carrier admin](/ATRM_Brief/Pages/Carrier.html)  |  [Flight information](/ATRM_Brief/Pages/Flights.html)  |
-[Red Force Doctrine](/ATRM_Brief/Pages/Generic_groundforce.html)  | 
+[Red Force Doctrine](/ATRM_Brief/Pages/Generic_groundforce.html)  | [How-to for external particpants](/ATRM_Brief/Pages/External.html)  | 
 
 Flight Information Publication in use are available here:
 [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
