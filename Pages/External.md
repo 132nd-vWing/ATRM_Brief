@@ -9,8 +9,12 @@ There, scroll down the page, until you see the the signup option. Select either 
 ![Signup](/ATRM_Brief/Pictures/Signup.PNG)
 
 
+
+
 After a while, the event host will assign you to a flight. If you are flightlead, you should before the event make sure to fill out a flightplan. To do so, find your flight, and click on the flightnumber (shown in yellow in picture below).
 ![Flightplan1](/ATRM_Brief/Pictures/Flightplan1.PNG)
+
+
 
 
 This will take you to the flightplan page, and the flights commschatter. In the commschatter you can share information with others in your flight. Before the flight you also need to make sure to fill out
@@ -23,6 +27,8 @@ the flightplan page with the following information (marked in yellow in picture 
 - ENR Intentions  (Enroute intentions) :  What is your intentions for the flight.  State planned route or requested airspace. What is your gameplan/tasking.
 
 The information is used to help human controllers, and provide situational awareness for other human players on your plans for a specific mission.
+
+
 
 
 
