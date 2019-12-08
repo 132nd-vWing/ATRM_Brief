@@ -15,12 +15,8 @@ Participating pilots must sign up via the 132nd Virtual Wing's event page, for w
 
 ## Exercises
 The 132nd host various advanced training exercises. <br>
-- RED Storm= A-A and A-G focus
-- BLUE Storm= A-G focus
-- GREEN Storm = A-A focus
 <br>
-
-[Exercise Red Storm](/ATRM_Brief/Pages/Exredstorm.html)  | 
+[Exercise Red Storm](/ATRM_Brief/Pages/Exredstorm.html)  
 
 ## Important information
 [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  |   [Standing SPINS](/ATRM_Brief/Pages/SPINS.html)  |  [Carrier admin](/ATRM_Brief/Pages/Carrier.html)  |  [Flight information](/ATRM_Brief/Pages/Flights.html)  |
@@ -33,7 +29,8 @@ Flight Information Publication in use are available here:
 ## For Controllers/AWACS
 
 ### Radio frequencies
-[Radio frequencies](/Pages/Presets.md)
+* [Radio frequencies](/Pages/Presets.md)
+* [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 
 
 

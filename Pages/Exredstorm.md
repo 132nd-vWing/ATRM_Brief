@@ -7,6 +7,14 @@ BLUE is controlling the western area, with RED areas beeing EAST and NORTH (Khas
 Combat operations is taking place on the flot between red and blue territory
 
 
+<br>
+<br>
+## Important information
+[SPINS EX RED STORM](/ATRM_Brief/ExRedStorm/SPINS_RedStorm.html) |  [Air-to-Air Training rules EX RED STORM](/ATRM_Brief/ExRedStorm/ADMIN_RedStorm.html)  | [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  | [Flight information](/ATRM_Brief/Pages/Flights.html)  |  [Targets](/ATRM_Brief/Targets/EX RED STORM - Strike targets.pdf)
+| [Radio frequencies](/ATRM_Brief/Pages/Presets.html) | [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) |
+<br>
+<br>
+
 
 
 ### Situation
@@ -60,15 +68,6 @@ Enemy units are eastern units.
 <br>
 <br>
 <br>
-## Important information
-[SPINS EX RED STORM](/ATRM_Brief/ExRedStorm/SPINS_RedStorm.html) |  [Air-to-Air Training rules EX RED STORM](/ATRM_Brief/ExRedStorm/ADMIN_RedStorm.html)  | [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  | [Flight information](/ATRM_Brief/Pages/Flights.html)  |  [Targets](/ATRM_Brief/Targets/EX RED STORM - Strike targets.pdf)
-| [Radio frequencies](/ATRM_Brief/Pages/Presets.html) | [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) |
-<br>
-<br>
-<br>
-<br>
-
-
 
 ## Scenario overview
 ![Exercise RED STORM scenario overview](/ATRM_Brief/Pictures/EX_REDSTORM_OVERVIEW.PNG)
