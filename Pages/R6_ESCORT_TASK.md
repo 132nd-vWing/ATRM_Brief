@@ -1,16 +1,16 @@
 # Range 6 Escort Tasking
 
 ## Scenario
-Range 6 is a contested area. A friendly FOB (T6.2 Weapon storage) is running out of supplies, and a resupply convoy are beeing prepared to aid with additional supplies.
-Friendly convoy is located at Main Supply Base(MSB) (Navpoint R6.MSB) (N23 59.945 E055 34.358).
-Friendly convoy consist of 3x HUMWVEE and 4x M818 Transport trucks
-Due to uncertainty of enemy prescence, a escort mission is planned, and the convoy will not move outside MSB without escort.
-Convoy will stop within the built-up area in the southern part of the range (IVO N23 52.900 E055 23.600) to unload supplies to allied forces. Planned stop 3-5 minutes. 
-Extra care to be taken while convoy is static as they are exposed in urban area.
+Range 6 is a contested area. A friendly FOB (T6.2 Weapon storage) is running out of supplies, and a resupply convoy are beeing prepared to aid with additional supplies.<br>
+Friendly convoy is located at Main Supply Base(MSB) (Navpoint R6.MSB) (N23 59.945 E055 34.358).<br>
+Friendly convoy consist of 3x HUMWVEE and 4x M818 Transport trucks<br>
+Due to uncertainty of enemy prescence, a escort mission is planned, and the convoy will not move outside MSB without escort.<br>
+Convoy will stop within the built-up area in the southern part of the range (IVO N23 52.900 E055 23.600) to unload supplies to allied forces. Planned stop 3-5 minutes. <br>
+Extra care to be taken while convoy is static as they are exposed in urban area.<br>
 
 #### Intelligence
-Intelligence reports indicate that parts of a enemy Motorized BN have arrived into the area
-In addition, intelligence reports have recently indicated that the enemy is planning to use VBIED's to strike friendly convoys moving outside the MSB. 
+Intelligence reports indicate that parts of a enemy Motorized BN have arrived into the area<br>
+In addition, intelligence reports have recently indicated that the enemy is planning to use VBIED's to strike friendly convoys moving outside the MSB. <br>
 
 [Red Force Doctrine](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
 
@@ -22,8 +22,8 @@ In addition, intelligence reports have recently indicated that the enemy is plan
 
 
 ### ESCORT Mission
-Your mission is to escort friendly convoy from startlocation:  to endlocation: T6.2 Weapon storage.
-Once convoy have arrived at the weapon storage, mission is over and you can RTB.
+Your mission is to escort friendly convoy from startlocation:  to endlocation: T6.2 Weapon storage.<br>
+Once convoy have arrived at the weapon storage, mission is over and you can RTB.<br>
 
 TASK: 
 - Scan ahead of the convoy to eliminate any potential threats.
