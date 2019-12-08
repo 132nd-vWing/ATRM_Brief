@@ -53,12 +53,6 @@ TASK:
 - Normal civilian traffic will travel at normal speeds (and should not be engaged)
 
 
-## Explanation 
-A logistical Battalion is broken down into 3 different Companies: <br>
-- Company 1: 2 x platoons with ATMZ-5 Fuel trucks (3 per platoon) delivering fuel
-- Company 2: 2 x platoons with Ural 375 trucks (3 per platoon) delivering ammunition
-- Company 3: 2 x platoons with KAMAZ 43101 trucks (3 per platoon) delivering ammunition or food
-
 
 
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
