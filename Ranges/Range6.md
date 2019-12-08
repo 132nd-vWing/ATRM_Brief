@@ -8,6 +8,9 @@ Intended for : CAS / FAC(A) / JTAC
 In the area of T6.2 and T6.3 is a area with urban and rural buildings and road networks. Creating possibility for a various of scenarios.
 Mobile targets are availeble close to the range storage.   Eastern military equipment are simulating targets, while western military equipment simulates friendlies.
 
+## Range 6 Escort task
+[Escort tasking](/ATRM_Brief/Pages/Generic_groundforce.html) 
+
 
 ## T6.1
 To be developed
