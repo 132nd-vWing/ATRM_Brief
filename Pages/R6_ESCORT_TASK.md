@@ -52,6 +52,7 @@ TASK:
 - VBIEDs are simulated by single vehicles travelling at very high speed 
 - Normal civilian traffic will travel at normal speeds (and should not be engaged)
 - It is possible to end the mission and land at FOB XRAY.
+- A JTAC can take place in the convoy. (DO NOT change the route of the convoy). If a JTAC occupy a vehicle, select autopilot and follow the convoy. Do not select the lead vehicle, but take one of the center or rear vehicle).
 
 ## FARP XRAY
 ![FARP X-RAY](/ATRM_Brief/Pictures/R6_FOB_XRAY.PNG)
