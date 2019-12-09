@@ -27,6 +27,12 @@ To be developed
 ## T6.3 Fuel site
 
 ![Fuel site](/ATRM_Brief/Pictures/T6_3.PNG)
+
+
+## Range 6 FOB
+FOB XRAY Coordinates: N23 53.100 E055 24.100, elevation 535ft
+![FARP X-RAY](/ATRM_Brief/Pictures/R6_FOB_XRAY.PNG)
+
 <br>
 <br>
 <br>

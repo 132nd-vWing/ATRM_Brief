@@ -5,7 +5,7 @@ Range 6 is a contested area. A friendly FOB (T6.2 Weapon storage) is running out
 Friendly convoy is located at Main Supply Base(MSB) (Navpoint R6.MSB) (N23 59.945 E055 34.358).<br>
 Friendly convoy consist of 3x HUMWVEE and 4x M818 Transport trucks<br>
 Due to uncertainty of enemy prescence, a escort mission is planned, and the convoy will not move outside MSB without escort.<br>
-Convoy will stop within the built-up area in the southern part of the range (IVO N23 52.900 E055 23.600) to unload supplies to allied forces. Planned stop 3-5 minutes. <br>
+Convoy will stop in FOB XRAY to unload supplies to allied forces. Planned stop 3-5 minutes. FOB XRAY Coordinates: N23 53.100 E055 24.100, elevation 535ft (see picture further down) <br>
 Extra care to be taken while convoy is static as they are exposed in urban area.<br>
 
 #### Intelligence
@@ -51,8 +51,9 @@ TASK:
 - Civilian buildings within the killbox are part of the range complex, but are to be treated as civilian buildings (so minimze damage to civilian buildings)
 - VBIEDs are simulated by single vehicles travelling at very high speed 
 - Normal civilian traffic will travel at normal speeds (and should not be engaged)
+- It is possible to end the mission and land at FOB XRAY.
 
-
-
+## FARP XRAY
+![FARP X-RAY](/ATRM_Brief/Pictures/R6_FOB_XRAY.PNG)
 
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
