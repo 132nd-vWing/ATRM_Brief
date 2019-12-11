@@ -42,6 +42,7 @@ The situation on the northern front, around Al Minhad is stable and static, but 
 - 200st Motorized Battalion is the primary defence of Al Ain
 - 401st Armored Battalion are trying to stop the RED force attack through allied lines, and are trying to restore the FLOT
 - Friendly FOB at Bu Kirayyah (FOB X-RAY) (In range 6) is currently in a very exposed position. 
+- Al Ain airfield is a Forward Operating Base for RW and A-10Cs.
 <br>
 <br>
 #### Enemy situation - Ground
