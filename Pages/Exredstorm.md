@@ -1,6 +1,6 @@
 # Exercise RED STORM
 
-This is a advanced scenario exercise.
+This is a advanced scenario exercise with focus on Air-to-Air and Air-to-Ground operations.
 Scenario is a classic war scenario, BLUE vs RED. 
 
 BLUE is controlling the western area, with RED areas beeing EAST and NORTH (Khasab).
@@ -14,7 +14,19 @@ Combat operations is taking place on the flot between red and blue territory
 | [Radio frequencies](/ATRM_Brief/Pages/Presets.html) | [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) |
 <br>
 <br>
-
+## Training Objectives
+- Priority 1: Composite Air Operations (COMAO) (package operations with different squadrons involved)
+- CAP 
+- SWEEP
+- ESCORT
+- CAS
+- AR
+- SCAR
+- FAC(A)
+- Strike
+- Air interdiction
+- SEAD/DEAD
+- Convoy escort missions
 
 
 ### Situation

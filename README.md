@@ -22,7 +22,7 @@ The 132nd Virtual Wing is deployed to the Persian Gulf in a capacity to provide 
 ## Exercises
 The 132nd host various advanced training exercises. <br>
 <br>
-[Exercise Red Storm](/ATRM_Brief/Pages/Exredstorm.html)  
+[Exercise Red Storm: A-A and A-G Focus](/ATRM_Brief/Pages/Exredstorm.html) | [Exercise Green Storm: A-G Focus](/ATRM_Brief/Pages/Exgreenstorm.html)   
 
 
 
