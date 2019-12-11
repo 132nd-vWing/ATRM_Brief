@@ -8,7 +8,7 @@ Combat operations is taking place on the flot between red and blue territory.
 <br>
 <br>
 ## Important information
- [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  | [Flight information](/ATRM_Brief/Pages/Flights.html)  |  [Strike targets](/ATRM_Brief/Targets/EX RED STORM - Strike targets.pdf)
+ [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)  | [Flight information](/ATRM_Brief/Pages/Flights.html)  |  
 | [Radio frequencies](/ATRM_Brief/Pages/Presets.html) | [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0) |
 <br>
 <br>
@@ -41,7 +41,7 @@ The situation on the northern front, around Al Minhad is stable and static, but 
 - 1st Marine Expeditionary Brigade have currently reinforced and are defending the area of Al Minhad.
 - 200st Motorized Battalion is the primary defence of Al Ain
 - 401st Armored Battalion are trying to stop the RED force attack through allied lines, and are trying to restore the FLOT
-- Friendly FOB at Bu Kirayyah (In range 6) is currently in a very exposed position. 
+- Friendly FOB at Bu Kirayyah (FOB X-RAY) (In range 6) is currently in a very exposed position. 
 <br>
 <br>
 #### Enemy situation - Ground
@@ -53,8 +53,14 @@ The situation on the northern front, around Al Minhad is stable and static, but 
 No factor. Focus is Air-to-Ground.
 <br>
 <br>
-#### Ground Situation
-![Exercise GREEN STORM Ground situation](/ATRM_Brief/Pictures/EX_GREENSTORM_SITUATION.PNG)
+#### Taskings
+- AR, Range 12:  [AR Mission](/ATRM_Brief/Pages/R12_AR_TASK.html) 
+- Convoy Escort, Range 6:  [Convoy escort mission](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
+- AR, Range 15: TBD
+- CAS Range 7: TBD
+- Strike, Range 12: [Range 12 Strike targets](/ATRM_Brief/Pages/R12_Strike_task.html) 
+
+
 <br>
 <br>
 <br>
@@ -64,7 +70,7 @@ No factor. Focus is Air-to-Ground.
 <br>
 <br>
 ## Detailed overview with threats (See combatflite file for details)
-![Exercise RED STORM scenario Details](/ATRM_Brief/Pictures/EX_REDSTORM_DETAILS.PNG)
+TO BE ADDED
 
 
 
