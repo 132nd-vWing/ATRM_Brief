@@ -32,7 +32,7 @@ Availeble taskings:
 - AR, Range 15: TBD
 - CAS Range 7: TBD
 - Strike, Range 12: [Range 12 Strike targets](/ATRM_Brief/Pages/R12_Strike_task.html) 
-- MQ checkout Range 12: [388th MQ checkout](/ATRM_Brief/Pages/R12_MQ_checkout_task.html) 
+- MQ checkout Range 12: [FW Fast jet MQ checkout](/ATRM_Brief/Pages/R12_MQ_checkout_task.html) 
 
 ## RANGES
 [Range 1](/ATRM_Brief/Ranges/Range1.html)  | [Range 4](/ATRM_Brief/Ranges/Range4.html)  | [Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |   [Range 7 ](/ATRM_Brief/Ranges/Range7.html)  |

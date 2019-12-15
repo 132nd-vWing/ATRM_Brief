@@ -1,4 +1,4 @@
-# 388th Mission Qualification Checkout
+# FW Fast jet Mission Qualification Checkout
 
 
 ### Situation
@@ -53,6 +53,9 @@ For pictures and visualization of target area, have a look here: [Target informa
 [CombatFlite file for planning](/ATRM_Brief/Files/ATRM_CF_388_MQ_checkout.cf)
 
 
+## Supporting assets
+- Tanker (AR203 for F-16 checkouts and AR305 for F-14 or F/A-18 checkouts)
+
 ## Questions for MQT pilot
 With the information provided in this brief, and during the TRP, please be prepared to answer the following questions during the mission brief:
 - What are the expected threat of mobile air defences (types, and where)?
@@ -63,6 +66,7 @@ With the information provided in this brief, and during the TRP, please be prepa
 ## Admin details
 - Instructor must ensure to activate threat sites: 12_1 , 12_2 , 12_4 , 12_5.
 - Instructor must ensure to activate ground scenario for R12 MQ checkout
+- Instructor must ensure to activate tanker AR203 for F-16 checkout or AR305 for F-14 or F/A-18 checkout
 - If blue AC is hit by SAM, blue will continue and debrief what went wrong after mission.
 - A-A Training rules: If BLUE AC is hit, they will continue mission. Will debrief what went wrong after mission. 
 - A-A Training rules: If RED AC is hit, AC will dive down towards ground, while spiralling,  turn radar off, and fly low-level back to base and land. 
