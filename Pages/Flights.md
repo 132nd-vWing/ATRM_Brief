@@ -11,7 +11,7 @@ Also note that when you select an aircraft at Al Dahfra, lower number will put y
 ## F/A-18C
 
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
-| ------ | ---- | ------ | -------- | -------- | ---- | --- |
+| ------ | ---- | ------ | -------- | -------- | ---- | --- | --- |
 **PANTHER**  |50Y-113Y| PER ATO | PER ATO |1515-1518|4211-4214| AL DAHFRA | N/A |
 **FALCON**   |51Y-114Y| PER ATO | PER ATO |1525-1528|4221-4224| AL DAHFRA | N/A |
 **HAWK**     |52Y-115Y| PER ATO | PER ATO |1535-1538|4231-4234| AL DAHFRA | N/A |
@@ -27,7 +27,7 @@ Also note that when you select an aircraft at Al Dahfra, lower number will put y
 ## F-14B
 
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
-| ------ | ---- | ------ | -------- | -------- | ---- | --- |
+| ------ | ---- | ------ | -------- | -------- | ---- | --- | --- |
 **SPECTRE**    |59Y-122Y| PER ATO | PER ATO |1711-1714|4331-4334| AL DAHFRA  | N/A |
 **KNIGHT**     |61Y-124Y| PER ATO | PER ATO |1715-1718|4341-4344| AL DAHFRA  | N/A |
 
@@ -36,7 +36,7 @@ Also note that when you select an aircraft at Al Dahfra, lower number will put y
 ## F-16C
 
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
-| ------ | ---- | ------ | -------- | -------- | ---- | --- |
+| ------ | ---- | ------ | -------- | -------- | ---- | --- | --- |
 **VIPER**    |62Y-125Y| PER ATO | PER ATO |1611-1614|4411-4414| AL DAHFRA  | N/A |
 **CHEVY**   |63Y-126Y| PER ATO | PER ATO |1621-1624|4421-4424| AL DAHFRA  | N/A |
 **DAGGER**   |10Y-73Y| PER ATO | PER ATO |1631-1634|4431-4434| AL DAHFRA  | N/A |
@@ -56,7 +56,7 @@ Also note that when you select an aircraft at Al Dahfra, lower number will put y
 ## A-10C
 
 | **FLIGHT** | **TACAN** |**PRIMARY FREQUENCY**|**SECONDARY FREQUENCY**|**Lasercode** |**IFF**| Airbase | Group ID |
-| ------     | ----  | ------- | ------- | ------- | ------- | ----------- |
+| ------     | ----  | ------- | ------- | ------- | ------- | ----------- | --- |
 **AXE**      |25Y-88Y| PER ATO | PER ATO |1511-1514|4121-4124|  AL DAHFRA  | 31 |
 **BEAST**    |26Y-89Y| PER ATO | PER ATO |1521-1524|4111-4114|  AL DAHFRA  | 32 |
 **CLAW**     |27Y-90Y| PER ATO | PER ATO |1531-1534|4131-4134|  AL DAHFRA  | 33 |
