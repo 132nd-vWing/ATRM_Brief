@@ -25,6 +25,14 @@ The 132nd host various advanced training exercises. <br>
 [Exercise Red Storm: A-A and A-G Focus](/ATRM_Brief/Pages/Exredstorm.html) | [Exercise Green Storm: A-G Focus](/ATRM_Brief/Pages/Exgreenstorm.html)   
 
 
+## Taskings
+Availeble taskings:
+- AR, Range 12:  [AR Mission](/ATRM_Brief/Pages/R12_AR_TASK.html) 
+- Convoy Escort, Range 6:  [Convoy escort mission](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
+- AR, Range 15: TBD
+- CAS Range 7: TBD
+- Strike, Range 12: [Range 12 Strike targets](/ATRM_Brief/Pages/R12_Strike_task.html) 
+- MQ checkout Range 12: [388th MQ checkout](/ATRM_Brief/Pages/R12_MQ_checkout_task.html) 
 
 ## RANGES
 [Range 1](/ATRM_Brief/Ranges/Range1.html)  | [Range 4](/ATRM_Brief/Ranges/Range4.html)  | [Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |   [Range 7 ](/ATRM_Brief/Ranges/Range7.html)  |
