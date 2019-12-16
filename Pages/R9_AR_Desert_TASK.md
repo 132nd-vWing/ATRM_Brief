@@ -6,6 +6,7 @@ The 12th Motorized Regiment was last located conducting resupply operations in v
 Currently the intention of 12th Motorized regiment is still unknown. It is assessed that the 12th Motorized Regiment will try to cut off supply lines to Al Ain, where the main BLUE defensive line is located. <br>
 One course of action is that the Regiment's objective is Bu Kirayyah. A second course of action is that the regiment is headed for the NORTH-SOUTH running road in the western part of Killbox MARCH and from there push NORTH into 
 Bu Kirayyah and then further NORTH to Al Ain. A third course of action is that the Regiment will move WEST of Bu Kirayyah and cut off the supply lines to Al Ain from WEST and SOUTH.
+The fourth course of action is that the Regiment will push NORTH from its last reported position in order to close in on Al Ain from the SOUTH.
 
 ![KILLBOX MARCH](/ATRM_Brief/Pictures/EX_GREENSTORM_R9_AR.PNG)
 
