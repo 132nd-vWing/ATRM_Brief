@@ -48,9 +48,10 @@ The situation on the northern front, around Al Minhad is stable and static, but 
 #### Enemy situation - Ground
 - TBD
 - [Red Force ground doctrine](/ATRM_Brief/Pages/Generic_groundforce.html) 
+- [Red Force Air Defence Doctrine (SAMs)](/ATRM_Brief/Pages/Generic_airdefence.html)  
 <br>
 <br>  
-#### Enemy situation - Air
+#### Enemy situation - Air-Air
 No factor. Focus is Air-to-Ground.
 <br>
 <br>
