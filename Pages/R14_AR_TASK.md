@@ -38,7 +38,7 @@ Task 2: Destroy 50% of Main Battle Tanks<br>
 
 
 #### Intelligence Questions
-- What are the various Battalions doing ( Rearm and refuel operations , defenive combat positions, or offensive posture (moving)?
+- What are the various Battalions doing ( Rearm and refuel operations , defensive combat positions, or offensive posture (moving)?
 - What is the status and location of the artillery supporting the Armored Regiment?
 - Where are the Regimental Headquarter located?
 
