@@ -59,7 +59,7 @@ No factor. Focus is Air-to-Ground.
 - AR, Range 12:  [AR Mission](/ATRM_Brief/Pages/R12_AR_TASK.html) 
 - Convoy Escort, Range 6:  [Convoy escort mission](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
 - AR, Range 15: TBD
-- CAS Range 7: TBD
+- CAS Range 7: [R7 CAS Scenario](/ATRM_Brief/Pages/R7_CAS_TASK.html) 
 - Strike, Range 12: [Range 12 Strike targets](/ATRM_Brief/Pages/R12_Strike_task.html) 
 - R9 AR Desert: [AR Desert mission](/ATRM_Brief/Pages/R9_AR_Desert_TASK.html) 
 - R14 AR: [R14 AR Mission](/ATRM_Brief/Pages/R14_AR_TASK.html) 
