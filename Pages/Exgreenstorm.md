@@ -62,6 +62,7 @@ No factor. Focus is Air-to-Ground.
 - CAS Range 7: TBD
 - Strike, Range 12: [Range 12 Strike targets](/ATRM_Brief/Pages/R12_Strike_task.html) 
 - R9 AR Desert: [AR Desert mission](/ATRM_Brief/Pages/R9_AR_Desert_TASK.html) 
+- R14 AR: [R14 AR Mission](/ATRM_Brief/Pages/R14_AR_Desert_TASK.html) 
 
 
 <br>
