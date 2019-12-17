@@ -16,10 +16,10 @@ SAMs IAW [Red Force Air Defence Doctrine (SAMs)](/ATRM_Brief/Pages/Generic_airde
 
 
 ### AR Mission
-Your mission is to conduct a AR mission Killbox MARCH.
-Task 1: Locate the regiment and identify where they are heading to provide intelligence for further understanding RED FORCE plans.
-Task 2: Destroy 100% of Artillery Battery
-Task 3: Destroy 50% of APC's
+Your mission is to conduct a AR mission Killbox MARCH.<br>
+Task 1: Locate the regiment and identify where they are heading to provide intelligence for further understanding RED FORCE plans.<br>
+Task 2: Destroy 100% of Artillery Battery<br>
+Task 3: Destroy 50% of APC's<br>
 
 
 #### Target priority:
