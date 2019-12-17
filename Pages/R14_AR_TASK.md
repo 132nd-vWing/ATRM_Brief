@@ -45,7 +45,7 @@ Task 2: Destroy 50% of Main Battle Tanks<br>
 
 
 ## Admin
-- Must be activated via F10 menu as flights are airborne inbound the target area (0-5 minutes after takeoff from Al Dahfra, or before takeoff from Al Ain).
+- Must be activated via F10 menu before flights take-off.
 - If High Value Targets are encountered, these are priority 1 targets, and need to be taken out as soon as possible.
 - Provide as much intelligence as possible after the mission in the after action review on the 132nd website (answering the intelligence questions).
 - Provide good BDA in the after action review on the 132nd website (amount of vehicles destroyed, and how much is left of the Regiment).
