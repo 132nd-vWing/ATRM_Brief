@@ -20,9 +20,9 @@ SAMs IAW [Red Force Air Defence Doctrine (SAMs)](/ATRM_Brief/Pages/Generic_airde
 
 ### AR Mission
 Your mission is to conduct a AR mission Killbox SATURN.<br>
-Task 1: Locate the lead Armored Regiment<br>
-Task 2: Destroy 50% of Artillery Battery<br>
-Task 3: Destroy 50% of APC's<br>
+Task 1: Locate the Armored Regiment<br>
+Task 2: Destroy 50% of Main Battle Tanks<br>
+
 
 
 #### Target priority:
