@@ -31,6 +31,7 @@ JTAC Warrior is part of this team, and are supporting effort to neutralize the t
 Your mission is to neutralize HVT ALPHA and HVT BRAVO.<br>
 <br>
 Task: Locate RED FORCE outpost, and convoy with HVT BRAVO.<br>
+Task: PID (Positivly Identify) HVT BRAVO.<br>
 Task: Plan and coordinate simultaneus attack against both High Value Targets in order for them not be able to get away.<br>
 Task: attack targets of oppertunity after neutralization of HVT ALPHA&BRAVO in order to reduce threat from RED FORCE. <br>
 Task: Coordinate with CAS flights for required loadout, Contactpoint and necessary information.<br>
@@ -70,11 +71,14 @@ Task: Supoort JTAC WARRIOR with attacks against targets of oppertunity. <br>
 ### Identification
 - HVT ALPHA: Inside outpost structure.
 
-- HVT BRAVO: TBD
+- HVT BRAVO: Vehicle with antenna. (CP URAL-375 PBU)
+![PID HVT BRAVO](/ATRM_Brief/Pictures/EX_GREENSTORM_R7_CAS_VIP.PNG)
 
 
 ## Admin
 - Must be activated via F10 menu when CAS flight is checking in with JTAC. (JTAC / FAC(A) responsibility)
+- Backup activation: Close to Al Bateen Airport, there are multiple vehicles. JTAC/FAC(A) will first activate the range scenario (activate units), but moving the veichle named:R7_CAS_VIP_Scenario_Activate into the windsock there.
+Once CAS flight check-in, JTAC/FAC(A) will move the following vehicle R7_CAS_VIP_Scenario_Start into the windsock, and the scenario will start. 
 - JTAC can be switched to a FAC(A) if not JTAC is availeble.
 - If High Value Targets are encountered, these are priority 1 targets, and need to be taken out as soon as possible.
 - Provide as much intelligence as possible after the mission in the after action review on the 132nd website (answering the intelligence questions).
