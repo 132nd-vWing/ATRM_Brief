@@ -1,6 +1,6 @@
 # Range 7 Close Air Support Tasking
 
-WORK IN PROGRESS - WORK IN PROGRESS - WORK IN PROGRESS <br>
+
 
 ## Scenario
 The Virtual Intelligence Service (VIS) have been able to identify and locate a outpost used by RED FORCES special operations forces.<br>
@@ -73,12 +73,14 @@ Task: Supoort JTAC WARRIOR with attacks against targets of oppertunity. <br>
 
 - HVT BRAVO: Vehicle with antenna. (CP URAL-375 PBU)
 ![PID HVT BRAVO](/ATRM_Brief/Pictures/EX_GREENSTORM_R7_CAS_VIP.PNG)
+![PID HVT BRAVO](/ATRM_Brief/Pictures/EX_GREENSTORM_R7_CAS_VIP2.PNG)
+
 
 
 ## Admin
 - Must be activated via F10 menu when CAS flight is checking in with JTAC. (JTAC / FAC(A) responsibility)
-- Backup activation: Close to Al Bateen Airport, there are multiple vehicles. JTAC/FAC(A) will first activate the range scenario (activate units), but moving the veichle named:R7_CAS_VIP_Scenario_Activate into the windsock there.
-Once CAS flight check-in, JTAC/FAC(A) will move the following vehicle R7_CAS_VIP_Scenario_Start into the windsock, and the scenario will start. 
+- Backup activation: Close to Al Bateen Airport, there are multiple vehicles. JTAC/FAC(A) will first activate the range scenario (activate units), but moving the veichle named:R7_CAS_HVT_Scenario_Activate into the windsock there.
+Once CAS flight check-in, JTAC/FAC(A) will move the following vehicle R7_CAS_HVT_Scenario_Start into the windsock, and the scenario will start. 
 - JTAC can be switched to a FAC(A) if not JTAC is availeble.
 - If High Value Targets are encountered, these are priority 1 targets, and need to be taken out as soon as possible.
 - Provide as much intelligence as possible after the mission in the after action review on the 132nd website (answering the intelligence questions).
@@ -86,7 +88,7 @@ Once CAS flight check-in, JTAC/FAC(A) will move the following vehicle R7_CAS_VIP
 - Information about the 31st Mechanized regiment composition can be found here: - [Red Force ground doctrine](/ATRM_Brief/Pages/Generic_groundforce.html)
  
 
-WORK IN PROGRESS - WORK IN PROGRESS - WORK IN PROGRESS <br>
+<br>
 
 
 
