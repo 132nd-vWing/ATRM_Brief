@@ -24,6 +24,8 @@ This section provides navigational information.
 
 ![OMAL VFR Departure](/ATRM_Brief/Pictures/VFR_departure_OMAL.PNG)
 
+![OMAL VFR Recovery](/ATRM_Brief/Pictures/VFR_recovery_OMAL.PNG)
+
 ![OMAM VFR Explanation](/ATRM_Brief/Pictures/VFR_explanation_OMAL.PNG)
 <br>
 <br>
