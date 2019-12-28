@@ -8,13 +8,21 @@ This section provides navigational information.
 
 ## Visual Flight Rules - Al Dahfra (Departure and Recovery)
 
-
 ![OMAM VFR Departure](/ATRM_Brief/Pictures/VFR_departure_OMAM.jpg)
 
 ![OMAM VFR Recovery](/ATRM_Brief/Pictures/VFR_recovery_OMAM.jpg)
 
 ![OMAM VFR Explanation](/ATRM_Brief/Pictures/VFR_explanation_OMAM.jpg)
 
+
+
+
+
+## Visual Flight Rules - Al Airn (Departure)
+
+![OMAL VFR Departure](/ATRM_Brief/Pictures/VFR_departure_OMAL.PNG)
+
+![OMAM VFR Explanation](/ATRM_Brief/Pictures/VFR_explanation_OMAL.PNG)
 <br>
 <br>
 <br>
