@@ -6,19 +6,21 @@ This section provides navigational information.
 * [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 
 
-## Visual Flight Rules - Al Dahfra (Departure and Recovery)
+### Visual Flight Rules - Al Dahfra (Departure and Recovery)
 
 ![OMAM VFR Departure](/ATRM_Brief/Pictures/VFR_departure_OMAM.jpg)
 
 ![OMAM VFR Recovery](/ATRM_Brief/Pictures/VFR_recovery_OMAM.jpg)
 
 ![OMAM VFR Explanation](/ATRM_Brief/Pictures/VFR_explanation_OMAM.jpg)
+<br>
+<br>
+<br>
+<br>
 
 
 
-
-
-## Visual Flight Rules - Al Airn (Departure)
+### Visual Flight Rules - Al Ain (Departure)
 
 ![OMAL VFR Departure](/ATRM_Brief/Pictures/VFR_departure_OMAL.PNG)
 
