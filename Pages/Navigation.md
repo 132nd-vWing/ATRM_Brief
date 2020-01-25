@@ -5,6 +5,10 @@ This section provides navigational information.
 ## FLIP
 * [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 
+## VFR PROCEDURES (PDF)
+* [ATRM VFR PROCEDURES](/ATRM_Brief/Files/ATRM VFR procedures.pdf)
+
+
 
 ### Visual Flight Rules - Al Dahfra (Departure and Recovery)
 
