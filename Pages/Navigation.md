@@ -18,11 +18,12 @@ This section provides navigational information.
 
 ![OMAM VFR Departure](/ATRM_Brief/Pictures/VFR_departure_OMAM.PNG)
 <br>
-![OMAM VFR Recovery](/ATRM_Brief/Pictures/VFR_recovery_OMAM.PNG)
-<br>
-![OMAM VFR Explanation](/ATRM_Brief/Pictures/VFR_explanation_OMAM.jpg)
+![OMAM VFR Recovery](/ATRM_Brief/Pictures/VFR_recovery_OMAM.png)
 <br>
 ![OMAM VFR Explanation](/ATRM_Brief/Pictures/VFR_explanation_OMAM.PNG)
+<br>
+<br>
+![OMAM VFR Explanation](/ATRM_Brief/Pictures/VFR_explanation_OMAM.jpg)
 <br>
 <br>
 <br>
