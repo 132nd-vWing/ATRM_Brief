@@ -1,6 +1,6 @@
 ## Welcome to Op IRON SHIELD
 
-The 132nd Virtual Wing is deployed to the Persian Gulf in a capacity to provide assurance to the local area. Whilst deployed, the Wing will conduct training exercises and, if necessary, provie a reactionary defensive capacity for the local area.
+The 132nd Virtual Wing is deployed to the Persian Gulf in a capacity to provide assurance to the local area. Whilst deployed, the Wing will conduct training exercises and, if necessary, provide a reactionary defensive capacity for the local area.
 
 
 ### Important information
@@ -26,7 +26,7 @@ The 132nd host various advanced training exercises. <br>
 
 
 ## Taskings
-Availeble taskings:
+Available taskings:
 - AR, Range 12:  [AR Mission](/ATRM_Brief/Pages/R12_AR_TASK.html) 
 - Convoy Escort, Range 6:  [Convoy escort mission](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
 - AR, Range 15: TBD
