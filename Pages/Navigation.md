@@ -30,7 +30,6 @@ This section provides navigational information.
 <br>
 <br>
 
-
 ### Visual Flight Rules - Al Ain (Departure)
 
 ![OMAL VFR Departure](/ATRM_Brief/Pictures/VFR_departure_OMAL.PNG)
