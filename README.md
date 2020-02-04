@@ -16,6 +16,7 @@ The 132nd Virtual Wing is deployed to the Persian Gulf in a capacity to provide 
 * [Radio frequencies](/Pages/Presets.md)
 * [Standing SPINS](/ATRM_Brief/Pages/SPINS.html)
 * [Flight information](/ATRM_Brief/Pages/Flights.html)
+* [Tanker information](/ATRM_Brief/Pages/Tanker.html)
 * [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 
 
@@ -35,7 +36,7 @@ Available taskings:
 - MQ checkout Range 12: [FW Fast jet MQ checkout](/ATRM_Brief/Pages/R12_MQ_checkout_task.html) 
 
 ## RANGES
-[Range 1](/ATRM_Brief/Ranges/Range1.html)  | [Range 4](/ATRM_Brief/Ranges/Range4.html)  | [Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |   [Range 7 ](/ATRM_Brief/Ranges/Range7.html)  |
+[Range 1](/ATRM_Brief/Ranges/Range1.html) | [Range 2](/ATRM_Brief/Ranges/Range2.html) | [Range 4](/ATRM_Brief/Ranges/Range4.html)  | [Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |   [Range 7 ](/ATRM_Brief/Ranges/Range7.html)  |
  [Range 10](/ATRM_Brief/Ranges/Range10.html)  | [Range 12](/ATRM_Brief/Ranges/Range12.html)  | [Range 13 ](/ATRM_Brief/Ranges/Range13.html)  | [Range 14](/ATRM_Brief/Ranges/Range14.html)  |
 
 
