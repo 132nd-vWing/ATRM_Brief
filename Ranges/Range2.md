@@ -23,7 +23,7 @@ Skill level is set to 'average' for all units, and all SAMs should have the coun
 
 
 ## Map
-![Range 2 map](/ATRM_Brief/Pictures/Range2.PNG)
+![Range 2 map](/ATRM_Brief/Pictures/Range_2.PNG)
 
 
 
