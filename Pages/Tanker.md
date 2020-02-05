@@ -36,3 +36,9 @@
  --------- | -----------| ------ | ------    | -----------   | -------- | ----
 **SHELL**  | AR 401     | 230    | 43Y       | 145.0 MHz     | 5317     | ?
 **SHELL**  | AR 404     | 230    | 47Y       | 142.0 MHz     | 5320     | ?
+
+## Maps
+
+![Tanker map 1](/ATRM_Brief/Pictures/Tanker_1.png)
+![Tanker map 2](/ATRM_Brief/Pictures/Tanker_2.png)
+![Tanker map 3](/ATRM_Brief/Pictures/Tanker_3.png)
