@@ -1,9 +1,10 @@
 # Range 13
 
 ## Description
-Range 13 is a RW training range
+Range 13 is a RW training range. 
 
-
+### Airspace
+To deconflict with departing traffic leaving Al Dhafra Airbase, Range 13 has a max ceiling of 300oft AGL
 
 ### Targets
 
