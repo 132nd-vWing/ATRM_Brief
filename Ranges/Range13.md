@@ -4,7 +4,7 @@
 Range 13 is a RW training range. 
 
 ### Airspace
-To deconflict with departing traffic leaving Al Dhafra Airbase, Range 13 has a max ceiling of 300oft AGL
+To deconflict with departing traffic leaving Al Dhafra Airbase, Range 13 has a max ceiling of 3000ft AGL
 
 ### Targets
 
@@ -24,7 +24,7 @@ Small bombing circle (NORTH): Used to assess accuracy and precision of bombing a
 Large bombing circle (SOUTH): Used to assess accuracy and precision of bombing and rocket runs. Circle interval is ~30m
 
 
-####T13.4
+#### T13.4
 Convoy target.
 Group, area target designed for effects distribution practice. 
 
