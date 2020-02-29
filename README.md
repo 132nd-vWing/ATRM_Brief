@@ -8,14 +8,12 @@ The 132nd Virtual Wing is deployed to the Persian Gulf in a capacity to provide 
 * [Carrier admin](/ATRM_Brief/Pages/Carrier.html)
 
 * [Navigation](/ATRM_Brief/Pages/Navigation.html)
-* [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 * [CombatFlite file for planning](/ATRM_Brief/Files/ATRM Combat Flite.cf)
 
 * [Red Force Doctrine](/ATRM_Brief/Pages/Generic_groundforce.html)
 
 * [Radio frequencies](/Pages/Presets.md)
 * [Standing SPINS](/ATRM_Brief/Pages/SPINS.html)
-* [Flight information](/ATRM_Brief/Pages/Flights.html)
 * [Tanker information](/ATRM_Brief/Pages/Tanker.html)
 * [FLIP Gulf Region](https://www.dropbox.com/s/sp91zf63rx0esao/FLIP_GULFR2_EC1.pdf?dl=0)
 
