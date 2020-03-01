@@ -2,7 +2,8 @@
 
 ## Scenario
 Intelligence reports indicate that the enemy force have been moving SCUDs in position for attacks. The 323rd Missile Regiment have been observed moving EAST
-from their main base at LIWA. Intelligence assess as even chance that SCUD firing positions are located in KILLBOX JUPITER
+from their main base at LIWA. Intelligence assess as even chance that SCUD firing positions are located in KILLBOX JUPITER. <br>
+Enemy area are WEST of FLOT. Friendly territory EAST of FLOT.  (Regardless if you are flying this a BLUE or RED).
 
 
 ![KILLBOX JUPITER](/ATRM_Brief/Pictures/R15_Killbox_JUPITER.PNG)
