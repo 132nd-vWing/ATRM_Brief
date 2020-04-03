@@ -26,7 +26,7 @@ It is assessed that a enemy SA-15 BN is deployed as force protection for the SCU
 
 
 ## ADMIN
-Scenario need to be activated via F10 menu, or vehicle at Al Bateen Airport
+Scenario need to be activated via F10 menu.
 
 
 

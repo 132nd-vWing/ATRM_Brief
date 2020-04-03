@@ -34,10 +34,11 @@ Task 2: is to locate enemy high value units assessed to be operating within the 
 
 
 ## Admin
-- At the end of each road is a outpost / roadblock. This is to prevent other traffic coming into the range, and shows the border of the search.
-- The killbox does not mean that flights need to be within the killbox at all times. Tee killbox indicates where the targets are expected, and when activating the killbox no one else will
-fly into the killbox without coordinating with the one tasked to use the killbox.
+- Scenario need to be activated via F10 menu
 - Threatsites can be setup and activated using the F10 menu to create a scenario. (Each indiviual threat site must be enabled/acivated before selecting IADS Medium or Hard)
+- At the end of each road is a outpost / roadblock. This is to prevent other traffic coming into the range, and shows the border of the search.
+- The killbox does not mean that flights need to be within the killbox at all times. The killbox indicates where the targets are expected, and when activating the killbox no one else will
+fly into the killbox without coordinating with the one tasked to use the killbox.
 - High Value Targets should be attacked immediatly if discovered.
 - Civilian buildings within the killbox are part of the range complex, but are to be treated as civilian buildings. 
 
