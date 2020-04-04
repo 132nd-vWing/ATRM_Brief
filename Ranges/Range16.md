@@ -52,6 +52,7 @@ and know where they are. Enemy units are hidden from the F10 map and you need to
 - For visual representation of the range , CP, IP, JTAC position, target area, see CombatFlite file under Range 16.
 - The range is blocked by a outpost and range tower along the road to the EAST. This marks the end of the target area for basic CAS scenario.
 - Mortar team will send message before they start firing. Pay attention to messages ingame. (Will provide maxord, GTL, TOF,and duration)
+- When Range 14 is in use, make sure to deconflict with Range 14 user.
 
 
 <br>

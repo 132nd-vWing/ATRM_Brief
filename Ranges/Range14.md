@@ -29,7 +29,7 @@ Eastern military equipment is enemy forces
 - DO NOT activate the scenario until the first CAS flight have checked in at the CP.
 - Type 3 are only to be used in one direction. (out from the FOB). Other 2 directions are to be controlled using Type 1 or 2. 
 - Scenario can be enabled either with SAMs or without SAMs. If selecting with SAMs, be prepared to use Low-level CAS procedures.  Enemy SAMs are located to the EAST (SA-15, SA-8, SA-9, SA-13 can be activated) 
-
+- When Range 16 is in use, make sure to deconflict with Range 16 user.
 
 
 
