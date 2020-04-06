@@ -9,7 +9,7 @@ Primary purpose is basic CAS training for JTACs.
 ## Basic Close Air Support Scenario
 Enemy territory is to the WEST. Friendly territory to the EAST.
 In the target area , a friendly motorized infantry platoon have encountered a stronger enemy force. Friendly forces are pinned down in a village
-and surrounded by enemy forces to the NORTH, SOUTH and EAST.
+and surrounded by enemy forces to the NORTH, SOUTH and WEST.
 Intelligence indicate that  enemy in the area is a motorized infantry company, supported by  mortar and a platoon of MBTs.
 We have reportings of an enemy SA-9 5km WEST of friendly position IVO enemy mortar position.
 
