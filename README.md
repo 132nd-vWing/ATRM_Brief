@@ -26,6 +26,7 @@ The 132nd host various advanced training exercises. <br>
 ## Taskings
 Available taskings:
 - AR, Range 12:  [AR Mission](/ATRM_Brief/Pages/R12_AR_TASK.html) 
+- AR - Dynamic, Range 7:  [Dynamic AR / SCAR](/ATRM_Brief/Targets/R7_AR.html) 
 - AR, Range 14:  [AR Mission](/ATRM_Brief/Pages/R14_AR_TASK.html)
 - Convoy Escort, Range 6:  [Convoy escort mission](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
 - AR, Range 15: [AR Mission](/ATRM_Brief/Pages/R15_AR_TASK.html) 
