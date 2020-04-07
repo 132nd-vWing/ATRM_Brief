@@ -6,13 +6,13 @@ Enemy 31st mechanized regiment started a few hours ago a movement toward FLOT in
 Mechanized regiment was last night reported of beeing forming up in assembly area (see picture below).
 It is assessed that the mechanized infantry regiment is staged along MSR Blue (see picture further down).
 In addition to the 31st mechanized infantry regiment, there have also been reported about unkown activity in area of interest "Valley SOUTH" (See picture further down).
-
-
-Threat
+<br>
+<br>
+Threat<br>
 Regimental headquarter and artillery units are likely protected by SA-13. Even chance 31st mechanized infantry regiment is equipped with MANPADSs for self defence.
+<br>
 
-
-Western military equipment is friendlies
+Western military equipment is friendlies. <br>
 Eastern military equipment is enemy forces
 
 
@@ -43,6 +43,9 @@ Task 4: Identify activty and units in area if interest 1 "Valley SOUTH"
 1. Silkworm missile battery
 2. MLRS
 
+
+### Command & Control
+- AR frequency in use: 127.750  (PURPLE 11) <br>
 
 #### Intelligence Questions
 - What are the various Battalions doing ( Rearm and refuel operations , defensive combat positions, or offensive posture (moving)?
