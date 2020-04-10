@@ -7,8 +7,9 @@ The target consist of multiple buildings and vehicles that can be used for talk-
 
 
 ### T4.2
-Range T4.2 is a basic range target and consist of 2x strafe panels and 4x bombing circles
+Range T4.2 is a basic range target and consist of 2x strafe panels and 2x bombing circles
 This target is ideal for basic weapon deliveries.
+The northern bombing circle emits blue smoke at impact points, while the southern bombing circle does not.
 
 
 ### T4.3
