@@ -26,6 +26,7 @@ The 132nd host various advanced training exercises. <br>
 ## Taskings
 Available taskings:
 - AR, Range 12:  [AR Mission](/ATRM_Brief/Pages/R12_AR_TASK.html) 
+- AR - Dynamic, Range 7:  [Dynamic AR / SCAR](/ATRM_Brief/Pages/R7_AR_TASK.html) 
 - AR, Range 14:  [AR Mission](/ATRM_Brief/Pages/R14_AR_TASK.html)
 - Convoy Escort, Range 6:  [Convoy escort mission](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
 - AR, Range 15: [AR Mission](/ATRM_Brief/Pages/R15_AR_TASK.html) 
@@ -34,8 +35,8 @@ Available taskings:
 - MQ checkout Range 12: [FW Fast jet MQ checkout](/ATRM_Brief/Pages/R12_MQ_checkout_task.html) 
 
 ## RANGES
-[Range 1](/ATRM_Brief/Ranges/Range1.html) | [Range 2](/ATRM_Brief/Ranges/Range2.html) | [Range 4](/ATRM_Brief/Ranges/Range4.html)  | [Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |   [Range 7 ](/ATRM_Brief/Ranges/Range7.html)  |
- [Range 10](/ATRM_Brief/Ranges/Range10.html)  | [Range 12](/ATRM_Brief/Ranges/Range12.html)  | [Range 13 ](/ATRM_Brief/Ranges/Range13.html)  | [Range 14](/ATRM_Brief/Ranges/Range14.html)  |
+[Range 1](/ATRM_Brief/Ranges/Range1.html) | [Range 2](/ATRM_Brief/Ranges/Range2.html) | [Range 3](/ATRM_Brief/Ranges/Range3.html) |[Range 4](/ATRM_Brief/Ranges/Range4.html)  | [Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |   [Range 7 ](/ATRM_Brief/Ranges/Range7.html)  |
+ [Range 10](/ATRM_Brief/Ranges/Range10.html)  | [Range 12](/ATRM_Brief/Ranges/Range12.html)  | [Range 13 ](/ATRM_Brief/Ranges/Range13.html)  | [Range 14](/ATRM_Brief/Ranges/Range14.html)  | [Range 16](/ATRM_Brief/Ranges/Range16.html)  |
 
 
 ![Ranges and MOAs](/Pictures/Range_MOA_overview.PNG)

@@ -3,13 +3,17 @@
 ## Description
 Range 6 is a multipurpose range.
 
-Intended for : CAS / FAC(A) / JTAC
+Intended for : CAS / FAC(A) / JTAC / AR
 
 In the area of T6.2 and T6.3 is a area with urban and rural buildings and road networks. Creating possibility for a various of scenarios.
 Mobile targets are availeble close to the range storage.   Eastern military equipment are simulating targets, while western military equipment simulates friendlies.
 
 ## Range 6 Escort task
 [Escort tasking](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
+
+## Range 6 AR SCUD Hunt
+- Scenario need to be added via F10 menu
+- Scenario: https://drive.google.com/file/d/1xxE0vPuC7S1tXJR-8FaYUmf7htN7NbAU/view?usp=sharing
 
 
 ## T6.1

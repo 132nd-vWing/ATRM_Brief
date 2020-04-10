@@ -25,6 +25,10 @@ See intelligence pictures below to be able to ID the various ships.
 #### Supply ship
 ![Supply vessel](/ATRM_Brief/Pictures/Range1_ship_supply.PNG)
 
+
+## ADMIN
+Scenario need to be activated via F10 menu.
+
   
 
 

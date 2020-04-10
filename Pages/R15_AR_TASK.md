@@ -50,8 +50,8 @@ Task 3: Report other enemey activity in killbox<br>
 
 
 ## Admin
-- Must be activated via F10 map before flights take-off  (IVO Al Bateen Airport, NW of Al Dahfra, there are a vehicle that need to be moved close to the windsock to activate the scenario.)
-- This mission can be flown both as BLUE force and RED force. Make sure to activate the right vehicle (marked BLUE and RED) when activating the scenario, as this have an impact of the SAMs.
+- Must be activated via F10 map before flights take-off .
+- This mission can be flown both as BLUE force and RED force. Make sure to activate the right scenario (marked BLUE and RED) when activating the scenario, as this have an impact of the SAMs.
 - If High Value Targets are encountered, these are priority 1 targets, and need to be taken out as soon as possible.
 - Provide as much intelligence as possible after the mission in the after action review on the 132nd website (answering the intelligence questions).
 - Provide good BDA in the after action review on the 132nd website (amount of vehicles destroyed, and how much is left of the Regiment).

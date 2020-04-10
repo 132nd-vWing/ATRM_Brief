@@ -65,7 +65,7 @@ With the information provided in this brief, and during the TRP, please be prepa
 
 ## Admin details
 - Instructor must ensure to activate threat sites: 12_1 , 12_2 , 12_4 , 12_5.
-- Instructor must ensure to activate ground scenario for R12 MQ checkout
+- Instructor must ensure to activate ground scenario for R12 MQ checkout (Using F10 menu, under Range 12)
 - Instructor must ensure to activate tanker AR203 for F-16 checkout or AR305 for F-14 or F/A-18 checkout
 - If blue AC is hit by SAM, blue will continue and debrief what went wrong after mission.
 - A-A Training rules: If BLUE AC is hit, they will continue mission. Will debrief what went wrong after mission. 
