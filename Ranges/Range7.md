@@ -15,7 +15,11 @@ In the center of the range are various JTAC locations. From the JTAC locations t
 
 NOTE: Mosque and civilian vehicles are there to simulate friendlies and can be used to train scenarios with focus on minimizing collateral damage.
 
-
+## Admin
+- Start AR scenario: "Start Dynamic AR Scenario"
+- "Activate AR Targets at Range 7" + "Activate Anti Air at Range 7"
+- Start CAS scenario R7: "Start CAS Scenario at Range 7" + "Prep CAS Scenario at Range 7
+- Range 6 On Demand Spawning.  (vehicles that can be added for creating custom scenarios/customized training)
 
 <br>
 <br>

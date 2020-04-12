@@ -26,6 +26,8 @@ Skill level is set to 'average' for all units, and all SAMs should have the coun
 ![Range 2 map](/ATRM_Brief/Pictures/Range_2.PNG)
 
 
+## ADMIN
+All threat sites need to be activated using F10 menu under Range 2.
 
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)

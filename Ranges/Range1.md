@@ -27,7 +27,7 @@ See intelligence pictures below to be able to ID the various ships.
 
 
 ## ADMIN
-Scenario need to be activated via F10 menu.
+Scenario need to be activated via F10 menu. ( "Activate ship targets in Range 1")
 
   
 

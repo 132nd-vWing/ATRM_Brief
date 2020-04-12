@@ -26,7 +26,7 @@ It is assessed that a enemy SA-15 BN is deployed as force protection for the SCU
 
 
 ## ADMIN
-Scenario need to be activated via F10 menu.
+Scenario need to be activated via F10 menu. ( "Activate AR Range 3 (SCUD Hunt)" )
 
 
 

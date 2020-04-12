@@ -37,6 +37,15 @@ To be developed
 FOB XRAY Coordinates: N23 53.100 E055 24.100, elevation 535ft
 ![FARP X-RAY](/ATRM_Brief/Pictures/R6_FOB_XRAY.PNG)
 
+
+
+
+## ADMIN
+All scenarios activated via F10 menu:
+- Range 6 AR SCUD hunt: "Activate AR (SCUD hunt)
+- Range 6 Convoy 1: "Start First Convoy"  and   "Stop First Convoy"
+- Range 6 Convoy 2: "Start Second Convoy" and "Stop Second Convoy"
+- Range 6 On Demand Spawning.  (vehicles that can be added for creating custom scenarios/customized training)
 <br>
 <br>
 <br>

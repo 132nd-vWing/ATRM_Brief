@@ -7,6 +7,7 @@ The range can be used for scenarios for Strike, Air Interdiction, Armed Reconnai
 
 ## Threat sites
 See Combatflite for threat sites availeble for scenarios.
+Range 12 contains 5 different threat sites, these can be tied together in a IADS posing a inreased challenge for SEAD or Strike flights
 
 
 
@@ -16,7 +17,17 @@ See Combatflite for threat sites availeble for scenarios.
 
 
 ## Armed reconissance scenario
-[Range 12 AR scenario](/ATRM_Brief/Pages/R12_AR_TASK.html)  
+[Range 12 AR scenario](/ATRM_Brief/Pages/R12_AR_TASK.html) 
+
+
+## MQT checkout scenario
+
+
+
+## ADMIN
+- For activation of AR Scenario Range 12, use F10 menu: "Activate AR Range 12 (MLRS hunt)"
+- For activation of MQT scenario Range 12, use F10 menu: "Activate scenario for FW fast jet MQT checkout" 
+- Use F10 menu under range 12 for activating and deactivating various threat sites in Range 12 manually. Can also be used for IADS settings.
 
 <br>
 <br>

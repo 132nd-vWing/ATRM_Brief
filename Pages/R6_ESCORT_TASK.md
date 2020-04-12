@@ -46,7 +46,8 @@ TASK:
 
 
 ## Admin
-- Convoy will start once a KA-50 is within 3000ft from the convoy (startlocation). (Currently there is no way of stopping the convoy. But can be implemented at a later stage, request through github issues)
+- To activate, use F10 menu: Range 6 Convoy 1: "Start First Convoy"  and   "Stop First Convoy"
+- To activate second convoy, use F10 menu:Range 6 Convoy 2: "Start Second Convoy" and "Stop Second Convoy"
 - High Value Targets should be attacked immediatly if discovered.
 - Civilian buildings within the killbox are part of the range complex, but are to be treated as civilian buildings (so minimze damage to civilian buildings)
 - VBIEDs are simulated by single vehicles travelling at very high speed 

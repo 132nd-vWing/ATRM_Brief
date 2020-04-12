@@ -35,7 +35,7 @@ Task 3: Destroy 50% of APC's<br>
 
 
 ## Admin
-- Must be activated via F10 menu as flights are airborne inbound the target area (0-5 minutes after takeoff from Al Dahfra, or before takeoff from Al Ain).
+- Must be activated via F10 menu ("Range 9 Activate AR scenario 1") as flights are airborne inbound the target area (0-5 minutes after takeoff from Al Dahfra, or before takeoff from Al Ain). 
 - If High Value Targets are encountered, these are priority 1 targets, and need to be taken out as soon as possible.
 - Provide as much intelligence as possible after the mission in the after action review on the 132nd website.
 - Provide good BDA in the after action review on the 132nd website (amount of vehicles destroyed, and how much is left of the Regiment).

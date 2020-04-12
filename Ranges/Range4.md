@@ -23,5 +23,8 @@ The northern bombing circle emits blue smoke at impact points, while the souther
 [Target information T4.1](/ATRM_Brief/Files/ATRM_RANGE4_T4.1.pdf)  
 
 
+### Admin
+T4.3 convoys are activated via F10 menu ( "Activate CBU convoy" ).
+
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
