@@ -15,9 +15,9 @@
 - ATC: 310.1
 
 
-
+## Carrier navigation areas (blue and red)
 ![Carrier locations](/ATRM_Brief/Pictures/Carrier.PNG)
 
-![Carrier locations](/Pictures/Carrier.PNG)
+
 
 
