@@ -16,6 +16,8 @@
 
 
 
-![Carrier locations](/ATRM_Brief/Pictures/Carrier.png)
+![Carrier locations](/ATRM_Brief/Pictures/Carrier.PNG)
+
+![Carrier locations](/Pictures/Carrier.PNG)
 
 
