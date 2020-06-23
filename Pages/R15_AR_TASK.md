@@ -1,4 +1,4 @@
-# Range 15 Armed Reconnisance Tasking
+# Range 15 Armed Reconnaissance Tasking
 
 ## Scenario
 Intelligence reports indicate that the enemy force have been moving SCUDs in position for attacks. The 323rd Missile Regiment have been observed moving EAST
