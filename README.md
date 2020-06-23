@@ -33,7 +33,9 @@ Available taskings/scenarios:
 - AR, Range 14:  [AR Mission](/ATRM_Brief/Pages/R14_AR_TASK.html)
 - CAS, Range 14:  [CAS Mission](/ATRM_Brief/Pages/R14_CAS_TASK.html)
 - Convoy Escort, Range 6:  [Convoy escort mission](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
-- AR, Range 15: [AR Mission](/ATRM_Brief/Pages/R15_AR_TASK.html) 
+- AR, Range 15: [AR Mission_1](/ATRM_Brief/Pages/R15_AR_TASK.html)
+- AR, Range 15: [AR Mission_2](/ATRM_Brief/Pages/R15_AR_TASK_2.html)
+
 - CAS Range 7: TBD
 - Strike, Range 12: [Range 12 Strike targets](/ATRM_Brief/Pages/R12_Strike_task.html) 
 - MQ checkout Range 12: [FW Fast jet MQ checkout](/ATRM_Brief/Pages/R12_MQ_checkout_task.html) 
