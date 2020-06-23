@@ -10,7 +10,7 @@ Most likely course of action(MLCOA) - mechanised battalion will seize Mahdah (N 
 Most dangerous course of action (MDCOA) - mechanised battalion will assault Al Ain directly along Route 7 posing threat of meeting engagement with marching friendly motorised infantry battalion.
 
 
-![Scenario Overview](/ATRM_Brief/Range15_AR_2.JPG)
+![Scenario Overview](/ATRM_Brief/Files/Range15_AR_2.JPG)
 
 
 ### AR Mission
