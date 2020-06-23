@@ -21,9 +21,9 @@ c) deny freedom of maneuver.
 
 TARGET PRIORITY
 
-ADA (Air Defence Assets)
-MBT
-BMP
+- ADA (Air Defence Assets)
+- MBT
+- BMP
 
 
 ## Admin
