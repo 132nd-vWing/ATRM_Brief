@@ -1,3 +1,5 @@
+# Range 12 Armed Reconnaissance Tasking for Rotary Wings
+
 **Scenario**
 
 Intelligence reports presence of a new SA-6 SAM installation in a valley at GRID DP17. RED FORCE are expected to be aware of BLUE FORCE Air Assets and are likely start their preparations for an offensive against BLUE FORCE under the cover of said SAM site. It is likely that the SAM site is protected by a mechanized platoon protected SHORAD or IR-SAM.
