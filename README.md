@@ -29,7 +29,7 @@ Available taskings/scenarios:
 - AR, Range 9: [AR Mission](/ATRM_Brief/Pages/R9_AR_Desert_TASK.html)  
 - AR, Range 10: [AR Mission](/ATRM_Brief/Pages/R10_AR_TASK.html) 
 - AR, Range 12:  [AR Mission](/ATRM_Brief/Pages/R12_AR_TASK.html)
-- AR, Range 12, Rotary Wings: [AR Mission]//ATRM_Brief/Pages/R12_AR_RW_Task)
+- AR, Range 12, Rotary Wings: [AR Mission](/ATRM_Brief/Pages/R12_AR_RW_Task.html)
 - AR - Dynamic, Range 7:  [Dynamic AR / SCAR](/ATRM_Brief/Pages/R7_AR_TASK.html) 
 - AR, Range 14:  [AR Mission](/ATRM_Brief/Pages/R14_AR_TASK.html)
 - CAS, Range 14:  [CAS Mission](/ATRM_Brief/Pages/R14_CAS_TASK.html)
