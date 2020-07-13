@@ -19,6 +19,8 @@ Range 12 contains 5 different threat sites, these can be tied together in a IADS
 ## Armed reconissance scenario
 [Range 12 AR scenario](/ATRM_Brief/Pages/R12_AR_TASK.html) 
 
+[Range 12 AR scenario for Rotary Wings](/ATRM_Brief/Pages/R12_AR_RW_Task)
+
 
 ## MQT checkout scenario
 
