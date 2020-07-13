@@ -30,4 +30,3 @@ The killbox does not mean that flights need to be within the killbox at all time
 Civilian buildings within the killbox are part of the range complex, but are to be treated as civilian buildings.
 
 ![Scenario Overview](/ATRM_Brief/Pictures/R12_AR_RW.png)
-
