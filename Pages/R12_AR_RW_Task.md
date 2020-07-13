@@ -29,4 +29,5 @@ Scenario is not compatible with Range 12 AR scenario. SA-6 site will engage flig
 The killbox does not mean that flights need to be within the killbox at all times. The killbox indicates where the targets are expected, and when activating the killbox no one else will fly into the killbox without coordinating with the one tasked to use the killbox.
 Civilian buildings within the killbox are part of the range complex, but are to be treated as civilian buildings.
 
-![Scenario Overview](/ATRM_Brief/Pictures/R12_AR_R12.PNG)
+![Scenario Overview](/ATRM_Brief/Pictures/R12_overview.PNG)
+
