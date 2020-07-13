@@ -1,4 +1,4 @@
-# Range 12 Armed Reconnisance Tasking
+# Range 12 Armed Reconnaissance Tasking
 
 ## Scenario
 A Regimental Headquarter of the 123rd Motorized Regiment is located in killbox NEPTUNE. Intelligence indicate that RED FORCE are increasing their prescense in the area to prepare for an offensive
