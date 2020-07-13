@@ -1,4 +1,4 @@
-# Frequncy allocation
+# Frequency allocation
 The following frequencies are used in this mission:
 
 ### Frequency masterfile:  [Frequency masterfile](/ATRM_Brief/Files/ATRM (Persian Gulf) Frequency and Callsign master list.xlsx)
