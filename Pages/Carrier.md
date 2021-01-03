@@ -4,7 +4,9 @@
 - CVN-73 George Washington
 - TACAN: 73X
 - ICLS: 13
-- ATC: 309.1
+- AI ATC (Lights): 309.5
+- Marshall: 309.9
+- Tower / LSO: 309.1
 
 
 
