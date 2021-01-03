@@ -13,7 +13,7 @@ The following presets are programmed into the aircraft:
 
 ### F-16C Presets:  [F-16C](/ATRM_Brief/Files/ATRM F16 Presets.pdf)
 
-### F-14B Presets:  [F-16C](/ATRM_Brief/Files/ATRM F14 Presets.pdf)
+### F-14B Presets:  [F-14B](/ATRM_Brief/Files/ATRM F14 Presets.pdf)
 
 ### KA-50 Presets:  [KA-50](/ATRM_Brief/Files/ATRM KA50 Presets.pdf)
 
