@@ -26,8 +26,8 @@ Eastern military equipment is enemy forces
 - Scenario can be enabled either with SAMs or without SAMs. If selecting with SAMs, be prepared to use Low-level CAS procedures.  Enemy SAMs are located to the EAST (SA-15, SA-8, SA-9, SA-13 can be activated) 
 - When Range 16 is in use, make sure to deconflict with Range 16 user.
 - To activate CAS scenario, use F10 menu: "Activate CAS scenario 1 + "Activate Anti Air at Range 14"
-- For more info on a custom CAS scenario at Range 14, see [Range 14] (https://132nd-vwing.github.io/ATRM_Brief/Ranges/Range14.html)
--
+- For more info on a custom CAS scenario at Range 14, see [Range 14](https://132nd-vwing.github.io/ATRM_Brief/Ranges/Range14.html)
+
 
 
 
