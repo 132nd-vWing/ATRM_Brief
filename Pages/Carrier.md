@@ -15,7 +15,9 @@
 - CVN-71 Theodore Roosevelt
 - TACAN: 71X
 - ICLS: 11
-- ATC: 310.1
+- AI ATC (Lights): 310.5
+- Marshall: 310.9
+- Tower / LSO: 310.1
 - 4x F/A-18s + 4x F-14s
 
 
