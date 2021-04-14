@@ -33,16 +33,25 @@ Available taskings/scenarios:
 - Convoy Escort, Range 6:  [Convoy escort mission](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
 - AR, Range 15: [AR Mission_1](/ATRM_Brief/Pages/R15_AR_TASK.html)
 - AR, Range 15: [AR Mission_2](/ATRM_Brief/Pages/R15_AR_TASK_2.html)
-
 - CAS Range 7: TBD
 - Strike, Range 12: [Range 12 Strike targets](/ATRM_Brief/Pages/R12_Strike_task.html) 
 - MQ checkout Range 12: [FW Fast jet MQ checkout](/ATRM_Brief/Pages/R12_MQ_checkout_task.html) 
 
 ## RANGES
-[Range 1](/ATRM_Brief/Ranges/Range1.html) | [Range 2](/ATRM_Brief/Ranges/Range2.html) | [Range 3](/ATRM_Brief/Ranges/Range3.html) |[Range 4](/ATRM_Brief/Ranges/Range4.html)  | [Range 5](/ATRM_Brief/Ranges/Range5.html)  | [Range 6 ](/ATRM_Brief/Ranges/Range6.html)  |   [Range 7 ](/ATRM_Brief/Ranges/Range7.html)  |
- | [Range 9 ](/ATRM_Brief/Ranges/Range9.html)  |
- [Range 10](/ATRM_Brief/Ranges/Range10.html)  | [Range 12](/ATRM_Brief/Ranges/Range12.html)  | 
- [Range 13 ](/ATRM_Brief/Ranges/Range13.html)  | [Range 14](/ATRM_Brief/Ranges/Range14.html)  || [Range 15](/ATRM_Brief/Ranges/Range15.html)  | [Range 16](/ATRM_Brief/Ranges/Range16.html)  |
+[Range 1](/ATRM_Brief/Ranges/Range1.html) | 
+[Range 2](/ATRM_Brief/Ranges/Range2.html) | 
+[Range 3](/ATRM_Brief/Ranges/Range3.html) |
+[Range 4](/ATRM_Brief/Ranges/Range4.html) | 
+[Range 5](/ATRM_Brief/Ranges/Range5.html) | 
+[Range 6](/ATRM_Brief/Ranges/Range6.html) | 
+[Range 7](/ATRM_Brief/Ranges/Range7.html) |
+[Range 9](/ATRM_Brief/Ranges/Range9.html)  | \
+[Range 10](/ATRM_Brief/Ranges/Range10.html) |
+[Range 12](/ATRM_Brief/Ranges/Range12.html)  | 
+[Range 13](/ATRM_Brief/Ranges/Range13.html) |
+[Range 14](/ATRM_Brief/Ranges/Range14.html)  |
+[Range 15](/ATRM_Brief/Ranges/Range15.html)  | 
+[Range 16](/ATRM_Brief/Ranges/Range16.html) 
 
 
 ![Ranges and MOAs](/Pictures/Range_MOA_overview.PNG)
