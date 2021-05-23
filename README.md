@@ -23,6 +23,7 @@ The 132nd host various advanced training exercises. <br>
 ## Taskings
 Available taskings/scenarios:  <!--- sorted by tasking type, then range -->
 - AR, Range 3: [AR SCUD Hunt](/ATRM_Brief/Ranges/Range3.html)
+- AR, Range 6: [AR SCUD Hunt](https://drive.google.com/file/d/1xxE0vPuC7S1tXJR-8FaYUmf7htN7NbAU/view?usp=sharing)
 - AR - Dynamic, Range 7: [Dynamic AR / SCAR](/ATRM_Brief/Pages/R7_AR_TASK.html) 
 - AR, Range 9: [AR Mission](/ATRM_Brief/Pages/R9_AR_Desert_TASK.html)  
 - AR, Range 10: [AR Mission](/ATRM_Brief/Pages/R10_AR_TASK.html) 
