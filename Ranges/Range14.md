@@ -16,8 +16,8 @@ The random pre-set CAS scenarios are aimed to provide the JTAC with practicing a
 
 How-To-Use:
 
-- Once in the mission, first take any slot of a USA airframe and then switch to TACTICAL COMMANDER or JTAC (The purpose of this is to allow receiving of messages generated only for specific users. This step is essential!
-- In the F10 menu, select ACTIVATE RANGE-14 PRESET CAS SCENARIO RANDOMLY. This would display the GFC-briefing to you providing you with the situation , priorities, restrictions and other scenario-specific information. It is highly advised to screenshot this screen so that the brief can be read later on as needed.
+- Once in the mission, first take any slot of a SWITZERLAND airframe and then switch to TACTICAL COMMANDER or JTAC (The purpose of this is to allow receiving of messages generated only for specific users. **This step is essential!**
+- In the F10 menu, select ACTIVATE R14 PRESET CAS SCENARIO RANDOMLY. This would display the GFC-briefing to you providing you with the situation , priorities, restrictions and other scenario-specific information. It is highly advised to screenshot this screen so that the brief can be read later on as needed.
 The briefing relates to the [GFC-JTAC Coordination Map](https://cloud.132virtualwing.org/s/RdHNqBNkNNgwWiP)
 - The JTAC/FAC(A) should use the GFC-brief message provided in conjunction with the map to orient himself in the range and prepare the required AO-update and additional details for the CAS flights as needed.
 After a few minutes, The "regular" JTAC units of the range will deactivate and only the scenario-specific JTAC would be available (The GFC brief also states the LATLONG of your JTAC position for this scenario).
