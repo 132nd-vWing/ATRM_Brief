@@ -16,14 +16,17 @@ The random pre-set CAS scenarios are aimed to provide the JTAC with practicing a
 
 How-To-Use:
 
-- Once in the mission, first take any slot of a SWITZERLAND airframe and then switch to TACTICAL COMMANDER or JTAC (The purpose of this is to allow receiving of messages generated only for specific users. **This step is essential!**
+- Once in the mission, first take TACTICAL COMMANDER or JTAC roles and then man one of the JTAC units of RANGE-14 (The purpose of this is to allow receiving of messages generated only for specific users once the CAS scenario is activated. **This step is essential!**
 - In the F10 menu, select ACTIVATE R14 PRESET CAS SCENARIO RANDOMLY. This would display the GFC-briefing to you providing you with the situation , priorities, restrictions and other scenario-specific information. It is highly advised to screenshot this screen so that the brief can be read later on as needed.
 The briefing relates to the [GFC-JTAC Coordination Map](https://cloud.132virtualwing.org/s/RdHNqBNkNNgwWiP)
 - The JTAC/FAC(A) should use the GFC-brief message provided in conjunction with the map to orient himself in the range and prepare the required AO-update and additional details for the CAS flights as needed.
-After a few minutes, The "regular" JTAC units of the range will deactivate and only the scenario-specific JTAC would be available (The GFC brief also states the LATLONG of your JTAC position for this scenario).
-- Similarly, the scenarios can also be selected specifically rather than randomly by choosing "CAS Preset scenario 1", CAS Preset scenario2" etc.
+After a few minutes, The "regular" JTAC units of the range will deactivate and only the scenario-specific JTACs would be available (The GFC brief also states the LATLONG of your JTAC position for this scenario).
+- Similarly, the scenarios can also be selected specifically rather than randomly by choosing "R14 CAS Preset scenario 1", "R14 CAS Preset scenario2" etc.
 
-NOTE: due to the location of the JTAC units for those scenarios, terrain masking can be expected. It is therefore advised to choose and coordinate CPs that are either SE or NW of the range center so as to minimize terrain-masking impact on the initial comms with the arriving CAS flights.
+**NOTES:** 
+1) due to the location of the JTAC units for those scenarios, terrain masking can be expected. It is therefore advised to choose and coordinate CPs that are either SE or NW of the range center so as to minimize terrain-masking impact on the initial comms with the arriving CAS flights.
+
+2) The preset CAS scenarios incorporate enemy SAM units. Those units will be using their radars but would not actually engage aircraft (This is a training scenario after all...). For this reason, please advise other participants in the event of the probable presence of SAM radars in R14 just so that it won't interfere with training activities of other flights in adjacent ranges.
 
 ## CAS, basic pre-set scenario
 The basic preset scenario sets some static units at the range and is suitable for basic CAS trainings. As opposed to the "1" and "2" preset scenarios, the units included in the basic scenario are all visible and controllable from the F10 map so that the JTAC can make adjustments to the range setup.
