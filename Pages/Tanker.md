@@ -10,7 +10,7 @@
 **ARCO**   | AR 201     | 200    | 39X       | 151.0 MHz     | 5311     | AL DAHFRA
 **ARCO**   | AR 202     | 200    | 48X       | 141.0 MHz     | 5321     | AL DAHFRA
 **ARCO**   | AR 203     | 200    | 49X       | 140.0 MHz     | 5322     | AL DAHFRA
-**ARCO**   | AR 204     | 260    | 50X       | 152.0 MHz     | 5323     | AL DAHFRA
+**ARCO**   | AR 204     | 260    | 50X       | 138.0 MHz     | 5323     | AL DAHFRA
 
 ### KC-135 MPRS
 
