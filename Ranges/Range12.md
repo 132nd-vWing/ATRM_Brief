@@ -4,6 +4,15 @@
 Range 12 is ideal for various scenario trainings. It contains several red airfields for aggressors, and have a suitable terrain for low-altitude ingress for various strike targets.
 The range can be used for scenarios for Strike, Air Interdiction, Armed Reconnaissance Suppression of Enemy Air Defence.
 
+### Boundaries
+**P1**   N25 38.778 E055 15.641
+
+**P2**   N26 26.363 E056 02.804
+
+**P3**   N26 21.996 E056 43.920
+
+**P4**   N25 17.153 E056 57.553
+
 
 ## Threat sites
 See Combatflite for threat sites availeble for scenarios.
