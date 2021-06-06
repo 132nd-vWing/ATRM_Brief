@@ -15,6 +15,15 @@ Mobile targets are availeble close to the range storage.   Eastern military equi
 - Scenario need to be added via F10 menu
 - Scenario: https://drive.google.com/file/d/1xxE0vPuC7S1tXJR-8FaYUmf7htN7NbAU/view?usp=sharing
 
+## Boundaries
+
+**P1**   N24 10.507 E055 01.018
+
+**P2**   N24 13.510 E055 32.023
+
+**P3**   N23 50.818 E055 43.124
+
+**P4**   N23 50.507 E054 49.698
 
 ## T6.1
 To be developed
@@ -46,10 +55,6 @@ All scenarios activated via F10 menu:
 - Range 6 Convoy 1: "Start First Convoy"  and   "Stop First Convoy"
 - Range 6 Convoy 2: "Start Second Convoy" and "Stop Second Convoy"
 - Range 6 On Demand Spawning.  (vehicles that can be added for creating custom scenarios/customized training)
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
