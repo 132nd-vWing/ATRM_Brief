@@ -8,6 +8,13 @@ All threatsites can be activated individually in the F10 menu.
 All SAMs have a supply truck close by that allows them to rearm after they depleted their ammunition.
 Skill level is set to 'average' for all units, and all SAMs should have the counter-SEAD script running.
 
+## Boundaries
+
+ **P1**   N23 48.217 E051 26.857
+ **P2**   N23 50.824 E053 07.662
+ **P3**   N22 19.979 E053 00.530
+ **P4**   N22 24.021 E051 16.562
+
 | TS | NAME | RUS. CODENAME | NATO CODENAME | TYPE           |
 |----|------|---------------|---------------|----------------|
 |  8 | SA-11| Buk           | Gadfly        | RADAR          |
