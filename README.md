@@ -47,6 +47,7 @@ Available taskings/scenarios:  <!--- sorted by tasking type, then range -->
 [Range 5](/ATRM_Brief/Ranges/Range5.html) | 
 [Range 6](/ATRM_Brief/Ranges/Range6.html) | 
 [Range 7](/ATRM_Brief/Ranges/Range7.html) |
+[Range 8](/ATRM_Brief/Ranges/Range8.html) |
 [Range 9](/ATRM_Brief/Ranges/Range9.html)  | \
 [Range 10](/ATRM_Brief/Ranges/Range10.html) |
 [Range 12](/ATRM_Brief/Ranges/Range12.html)  | 
