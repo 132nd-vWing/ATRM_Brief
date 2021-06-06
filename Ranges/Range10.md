@@ -3,6 +3,16 @@
 ## Description
 Range 10 is a multipurpose range that can be used for AR/SCAR/AI/SEAD/PACKAGE/A-A training.
 
+### Boundaries
+
+**P1**   N23 46.298 E056 11.700
+
+**P2**   N23 46.430 E057 10.461
+
+**P3**   N22 26.411 E057 24.623
+
+**P4**   N22 26.244 E056 12.091
+
 
 ###
 AR/SCAR Tasking:
@@ -27,10 +37,6 @@ This can be used for either SEAD scenario training. It can also be used as SEAD 
 - To activate AR mission range 10, use F10 menu: Range 10: "Activate AR scenario 1 at Range 10"
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
