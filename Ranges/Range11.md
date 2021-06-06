@@ -26,10 +26,6 @@ Range 11 also contains possibility for basic AR training.
 
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
