@@ -1,6 +1,17 @@
 # Range 4
 
 ## Description
+
+### Boundaries
+**P1**   N23 55.897 E053 55.181
+
+**P2**   N24 16.054 E054 12.878
+
+**P3**   N23 57.808 E054 45.418
+
+**P4**   N23 34.442 E054 31.813
+
+
 ### T4.1
 This is a basic CAS range, or basic SAT.
 The target consist of multiple buildings and vehicles that can be used for talk-on or attacks. All targets are stationary
