@@ -5,6 +5,16 @@ Range 7 is a multipurpose range.
 
 Intended for : CAS or AR operations
 
+## Boundaries
+
+**P1**   N24 15.702 E055 53.433
+
+**P2**   N24 20.081 E056 40.302
+
+**P3**   N23 51.077 E056 56.297
+
+**P4**   N23 50.731 E055 55.702
+
 
 ## CAS
 In the center of the range are various JTAC locations. From the JTAC locations there are multiple target areas that are availeble
@@ -21,10 +31,5 @@ NOTE: Mosque and civilian vehicles are there to simulate friendlies and can be u
 - Start CAS scenario R7: "Start CAS Scenario at Range 7" + "Prep CAS Scenario at Range 7
 - Range 6 On Demand Spawning.  (vehicles that can be added for creating custom scenarios/customized training)
 
-<br>
-<br>
-<br>
-<br>
-<br>
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)

@@ -5,6 +5,15 @@ Range 14 is a multipurpose range.
 
 Intended for : CAS / FAC(A) / JTAC / AR / SCAR
 
+## Boundaries
+**P1**   N24 19.769 E055 50.041
+
+**P2**   N24 44.939 E055 50.255
+
+**P3**   N24 44.344 E056 23.566
+
+**P4**   N24 24.360 E056 25.805
+
 ## CAS Dynamic scenario
 - CAS, Range 14:  [CAS Mission](/ATRM_Brief/Pages/R14_CAS_TASK.html)
 

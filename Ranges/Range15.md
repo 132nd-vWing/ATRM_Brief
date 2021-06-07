@@ -3,7 +3,18 @@
 ## Description
 Range 15 is a multipurpose range. Intended for : CAS / FAC(A) / JTAC / AR
 
+## Boundaries
+**P1**   N24 29.481 E055 50.118
 
+**P2**   N24 30.356 E056 25.159
+
+**P3**   N24 13.334 E056 38.967
+
+**P4**   N24 03.170 E055 54.797
+
+**P5**   N24 13.932 E055 53.596
+
+**P6**   N24 19.610 E055 49.958
 
 
 ## AR scenarios
