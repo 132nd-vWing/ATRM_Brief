@@ -13,7 +13,7 @@ defending a command center (T18.1). The objective is to destroy the command cent
 - Command Center T18.1: N27 47.208 E058 30.042, elev 1298ft  
 
 
-![Locations](/ATRM_Brief/Pictures/T18_1.PNG)
+![T18.1](/Pictures/T18_1.PNG)
 
 
 ### ADMIN
