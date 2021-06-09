@@ -56,7 +56,6 @@ Available taskings/scenarios:  <!--- sorted by tasking type, then range -->
 [Range 15](/ATRM_Brief/Ranges/Range15.html)  | 
 [Range 16](/ATRM_Brief/Ranges/Range16.html)  |
 [Range 18](/ATRM_Brief/Ranges/Range18.html)  |
-=======
 
 
 ![Ranges and MOAs](/Pictures/Range_MOA_overview.PNG)
