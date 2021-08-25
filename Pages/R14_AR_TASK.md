@@ -43,6 +43,11 @@ Task 2: Destroy 50% of Main Battle Tanks<br>
 - Where are the Regimental Headquarter located?
 
 
+### KB SATURN
+1. N24 38.6  E056 00.9
+2. N24 47.3  E056 12.6
+3. N24 43.8  E056 16.9
+4. N24 34.3  E056 05.7
 
 ## Admin
 - Must be activated via F10 menu before flights take-off.
