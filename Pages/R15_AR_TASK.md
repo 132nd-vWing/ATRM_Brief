@@ -47,7 +47,11 @@ Task 3: Report other enemey activity in killbox<br>
 - Are parts of the 323rd Missile Regiment located in the Killbox?
 - Where are the Regimental Headquarter located?
 
-
+## KB JUPITER
+- N24 28  E055 51
+- N24 28  E056 02
+- N24 21  E056 02
+- N24 21  E055 51
 
 ## Admin
 - Must be activated via F10 map before flights take-off .
