@@ -20,6 +20,7 @@ Intended for : CAS / FAC(A) / JTAC / AR / SCAR
 ## CAS, pre-set static scenarios
 - CAS preset scenario #1
 - CAS preset scenario #2
+- CAS preset scenario #3
 
 The random pre-set CAS scenarios are aimed to provide the JTAC with practicing a rapid preparation of his situation updates based on details provided by a simulated Ground Force Commander.
 
