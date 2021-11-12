@@ -54,11 +54,23 @@ and know where they are. Enemy units are hidden from the F10 map and you need to
 - Mortar team will send message before they start firing. Pay attention to messages ingame. (Will provide maxord, GTL, TOF,and duration)
 - When Range 14 or 15 is in use, make sure to deconflict with Range 14 or 15 user.
 
+## RANGE 16 CAS PRESET SCENARIO #2
 
-<br>
-<br>
-<br>
-<br>
+Ground Force Commander (GFC) briefing for scenario-2:
+SITUATION
+A friendly special operations (SOF) team callsign PREDATOR is located in a hostile village behind enemy lines.
+PREDATOR was conducting SIGINT gathering when it has been compromised.
+PREDATOR position is in a house at N24 47.640 / E056 08.485. PREDATOR has two HMMWV vehicles parked outside. They are currently working on tearing down their SIGINT gear and once ready they will use the two HMMWV to exfil the area towards the South.
+
+An enemy force consisting at least one motorized company has entered the region. PREDATOR reports intercepting transmissions about enemy infantry teams with RPGs deploying to the South of their position along with roadblocks deployed around their position. They also indicate of a mechanized force of at least one company inbound from the North-West
+
+JTAC position is on the ridge at N24 45.8 / E056 08.2
+The FLOT is running East-West through the small village at N24 45.8 / E056 10.0
+
+With no friendly forces that are combat-capable, it is up to the CAS assets to ensure the safety of PREDATOR by:
+1) Target any enemy forces closing in on VENOMs location
+2) Ensure the exfil route for VENOM is cleared of any threats
+
 <br>
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
