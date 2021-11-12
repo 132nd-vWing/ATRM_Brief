@@ -65,6 +65,7 @@ PREDATOR position is in a house at N24 47.640 / E056 08.485. PREDATOR has two HM
 An enemy force consisting at least one motorized company has entered the region. PREDATOR reports intercepting transmissions about enemy infantry teams with RPGs deploying to the South of their position along with roadblocks deployed around their position. They also indicate of a mechanized force of at least one company inbound from the North-West
 
 JTAC position is on the ridge at N24 45.8 / E056 08.2
+
 The FLOT is running East-West through the small village at N24 45.8 / E056 10.0
 
 With no friendly forces that are combat-capable, it is up to the CAS assets to ensure the safety of PREDATOR by:
