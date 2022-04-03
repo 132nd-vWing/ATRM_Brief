@@ -7,13 +7,13 @@ Range 13 is a RW training range.
 To deconflict with departing traffic leaving Al Dhafra Airbase, Range 13 has a max ceiling of 3000ft AGL
 
 #### Boundaries
-**P1**   N24 19.027 E054 07.539
+**P1**   N24 19.019 E054 07.462
 
 **P2**   N24 23.120 E054 12.535
 
-**P3**   N24 15.558 E054 24.754
+**P3**   N24 14.327 E054 26.534
 
-**P4**   N24 11.409 E054 21.254
+**P4**   N24 09.608 E054 21.020
 
 ### Targets
 
@@ -42,14 +42,20 @@ Group, area target designed for effects distribution practice.
 Armor group. Consists of 3xT-55 and 1xBMP-1. Simmulates enemy ground combat unit in  open ground. Vehicles are stationary in wedge formation.
 
 
+#### T13.6
+Battalion in assault - Target consists of 1+ Mech Coy, 2x T-55 platoon supported by 1x Shilka platoon, 1x 2S1 battery, C2, recon and logisics. Target array is stationary and patterned in a way that resembles RL tactics of BN size units. T13.6 is designed to facilitate tactics, battle drills and gunnery training in both basic and advanced scenarios. 
 
+### NOE training area
+Is a vegetated area (4.2x2.2nM or 7.8x4.1km) with small trees and bushes located in SE corner of the Range 13 (center grid N 24 11.900 E 054 20.500 / 40R BM 2997 7875 / 13ft). Area contains a number of buildings and compounds and target T13.6. 
 
 ### Range Tower and storage 
 At navpoint R13_Storage there is a range TWR. This can be used for Range Control Officer duties if applicable.
 
 In addition there is a storage, and several movable vehicles that can be moved into the range for specific training objectives.
 
-
+### Recovery locations for R13
+**OMAM AFB** - N 24 15.429 E 054 32.045 / 40R BM 4966 8492 / 69ft
+**FARP Grit** - N 24 09.300 E 054 25.200 / 40R BM 3785 7379 / 26ft
 
 
 
