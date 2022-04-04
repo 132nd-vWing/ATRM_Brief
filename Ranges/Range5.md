@@ -8,7 +8,7 @@ The range is ideal for basic weapon deliveries.
 
 **P1**   N24 26.864 E053 26.266
 
-**P2**   N24 19.027 E054 07.539
+**P2**   N24 19.019 E054 07.462
 
 **P3**   N23 57.964 E053 50.336
 
