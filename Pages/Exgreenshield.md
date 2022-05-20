@@ -42,8 +42,9 @@ Enemy doctrine:
 ## Tasking
 ### Tasking 1: 
 AR mission in Killbox NELSON to locate and destroy enemy rocket artillery (GRAD), enemy artillery, enemy logistical support units.
-If multiple flights are tasked with AR, senior FL (most flight hours) assume role as mission commander (or SCAR of multiple flights). 
-Senior FL coordinate with SEAD flights in support as required.
+If multiple flights are tasked with AR, a volunteer FL (or most experienced FL if no volunteers) assume role as mission commander. 
+Mission Commander coordinate with SEAD flights in support as required.
+If multiple AR flights are availeble, Mission Commander can change role from AR to SCAR.
 
 Target priority:
 1. Rocket artillery.
@@ -53,7 +54,7 @@ Target priority:
 
 ### Tasking 2: 
 SEAD in support of tasking 1.
-Coordinate with Senior FL for tasking 1.
+Coordinate with Mission Commander for tasking 1.
 <br>
 <br>
 ![Exercise GREEN SHIELD scenario overview](/ATRM_Brief/Pictures/EX_GREENSHIELD_KBNELSON.PNG)
