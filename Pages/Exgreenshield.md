@@ -2,12 +2,13 @@
 
 This is a advanced scenario exercise with focus on Air-to-Ground operations in preperation for attack against Syria as part of Operation Active Resolve (OPAR).
 Scenario is a classic war scenario, BLUE vs RED. 
+The scenario uses MOA 3 airspace + additional airspace furher NORTH IAW picture below.
 
 ## Scenario overview
 ![Exercise GREEN SHIELD scenario overview](/ATRM_Brief/Pictures/EX_GREENSHIELD_OVERVIEW.PNG)
 
-BLUE is controlling the southern area, with RED areas beeing NORTH).
-Combat operations is taking place on the flot between red and blue territory
+BLUE is controlling the southern area, with RED controlling the area in the north..
+Combat operations is taking place on the FLOT between red and blue territory
 
 
 <br>
@@ -19,7 +20,7 @@ Combat operations is taking place on the flot between red and blue territory
 ### Situation
 #### General situaton
 BLUE and RED have been building up forces. BLUE have initiated an assault within the last 24 hours against RED forces. Combat operatons is currently fairly static along
-the FLOT. JFACC have tasked friendly forces to attrit enemy high value units before the BLUE forces commence a ground assault against the RED forces in this sector.
+the FLOT. JFACC have tasked friendly forces to attrit enemy high targets units before the BLUE forces commence a ground assault against the RED forces in this sector.
 <br>
 <br>
 #### Friendly situation
@@ -39,17 +40,27 @@ Enemy doctrine:
 <br>
 <br>
 ## Tasking
-Tasking 1: AR mission in Killbox NELSON to locate and destroy enemy rocket artillery (GRAD), enemy artillery, enemy logistical support units.
+### Tasking 1: 
+AR mission in Killbox NELSON to locate and destroy enemy rocket artillery (GRAD), enemy artillery, enemy logistical support units.
 If multiple flights are tasked with AR, senior FL (most flight hours) assume role as mission commander (or SCAR of multiple flights). 
 Senior FL coordinate with SEAD flights in support as required.
 
-Tasking 2: SEAD in support of tasking 1.
+Target priority:
+1. Rocket artillery.
+2. Regular artillery.
+3. Concentration of logistical forces of company or higher.
+4. Any other combat forces.
 
+### Tasking 2: 
+SEAD in support of tasking 1.
+Coordinate with Senior FL for tasking 1.
+<br>
+<br>
 ![Exercise GREEN SHIELD scenario overview](/ATRM_Brief/Pictures/EX_GREENSHIELD_KBNELSON.PNG)
 
 <br>
 <br>
-### High Value Targets
+### Time Sensitive Targets
 - Priority 1: SCUD
 - Priority 2: Heavy rocket artillery (MLRS=SMERCH or Uragan)
 <br>
