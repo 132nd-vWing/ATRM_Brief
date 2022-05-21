@@ -59,6 +59,14 @@ Coordinate with Mission Commander for tasking 1.
 <br>
 ![Exercise GREEN SHIELD scenario overview](/ATRM_Brief/Pictures/EX_GREENSHIELD_KBNELSON.PNG)
 
+
+Coordinates for killbox Nelson:
+N25 02.000 E056 01.000
+N25 02.000 E056 17.000
+N24 49.000 E056 17.000
+N24 49.000 E056 01.000
+
+
 <br>
 <br>
 ### Time Sensitive Targets
