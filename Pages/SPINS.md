@@ -125,12 +125,12 @@ rules of engagement.
 
 ## Authentication
 ### Authentication Encryption Table + RAMROD 
-[AET-100](https://www.dropbox.com/s/b6mbo7fw2wvnkfi/AET-100_RAMROD_v1.1.pdf?dl=0)
+[AET-100](https://cloud.132virtualwing.org/s/pmyN8JsfPKw6jEt)
 <br>
 <br>
 <br>
 ### Transmission Authentication Table
-[TAT-101](https://www.dropbox.com/s/6aplu5oktunvclm/TAT-101_V1.2.pdf?dl=0)
+[TAT-101](https://cloud.132virtualwing.org/s/iXpp4ZjanwA5dce)
 <br>
 <br>
 <br>
