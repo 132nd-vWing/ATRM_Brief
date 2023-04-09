@@ -81,6 +81,10 @@ ADMIN:
 3) JTAC position is at N24 22.190 /E055 57.800 / 3040ft. Training JTAC may either use the MANPADs or otherwise seize control of PREDATOR's HMMWVs and practice convoy-escort procedures
 4) About 1km to the WEST of the JTAC position are another pair of HMMWVs that may be used to simulate JTAC's exfil while handing over control to a FAC(A) to cover its retreat.
 
+
+******************************************************************************
+
+
 **Range-15 CAS preset scenario #3**
 
 SITUATION:
