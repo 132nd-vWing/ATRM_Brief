@@ -125,7 +125,7 @@ ADMIN:
 4) All RED units are set to engage BLUE GROUND units only so as to minimize risk of air assets taking part in the training. <br>
 5) All BLUE units are set to HOLD FIRE and thus will not fire unless set otherwise by player. <br>
 
-![image](https://user-images.githubusercontent.com/42184209/230796003-f0bd2662-e214-431f-8c76-b2d3a55f32dd.png)
+![image](https://user-images.githubusercontent.com/42184209/230796166-e23c9510-5628-4106-aa15-c9b5c4bc8487.png)
 
 
 <br>
