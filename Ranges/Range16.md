@@ -99,13 +99,15 @@ ALLIED FORCES:
 1) OP-1: JTAC position
 N24 56.350 / E056 10.000 / 40R DN1585-5874 / ELEV 1270ft
 
-2) Friendly force South of LD (24 53.800 / E056 09.800 / 40R DN1548-5378 / ELEV 750ft ???  consists of:
+2) Friendly force South of LD (24 53.800 / E056 09.800 / 40R DN1548-5378 / ELEV 750ft consists of:
 2a) Artillery (x4 120mm mortars)
 2b) (x2) RECON teams on HMMWVs
 2c) (x2) assault groups consisting of (1x) ABRAMS + (1x) BRADLEY each
 2d) (x2)  mechanized platoons consissting of (1x) ABRAMS + (2x) BRADLEY each
 2e) SWITCH vehicle
 2f) TRIGGER (Watchtower)
+
+(See screenshot of the friendly camp below)
 
 RESTRICTIONS:
 1) HIGHWAY and POWERLINES are civilian critical infrastructures. Avoid any cratering or other effects.
@@ -118,6 +120,9 @@ ADMIN:
 1) Assault groups (See 2c above) can be autonomously drive to seize OBJ-A and OBJ-B by driving the SWITCH vehicle accross the road towards the nearby watchtower (TRIGGER). All other BLUE vehicles are manutally controllable
 2) All BLUE units are under WEAPONS HOLD and will not fire at RED targets. They can be set to WEAPONS FREE by the JTAC/GFC
 3) All RED units are set to engage BLUE ground units only (Keeping air assets safe to facilitate training)
+
+![ATRM R16 CAS_PRESET-4](https://user-images.githubusercontent.com/42184209/233787813-5cceb6ec-ff14-4f8b-9e6b-17c8d5a19537.png)
+![ATRM R16 CAS_PRESET-4 User manual v2](https://user-images.githubusercontent.com/42184209/233788030-ece6c8d1-68b6-4884-a71f-62896c5a32a7.png)
 
 <br>
 ## Back
