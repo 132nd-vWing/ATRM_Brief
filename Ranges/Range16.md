@@ -81,9 +81,9 @@ SITUATION:
 1) INTL has indicated an increased presence of ISIS forces in the north of UAE.
 2) ISIS has been using the highway to move troops and supplies from the coastal area to the west.
 3) JFC has ordered the highway be cut off to disrupt ISIS movements in the area
-4) A taskforce is setting up at the LD (Line of Departure) to advance into the town of MUNAY with the following goals:
-4a) Eliminate ISIS presence in the town
-4b) Cut off the highway and block any ISIS movements in the area
+4) A taskforce is setting up at the LD (Line of Departure) to advance into the town of MUNAY with the following goals: <br>
+4a) Eliminate ISIS presence in the town <br>
+4b) Cut off the highway and block any ISIS movements in the area <br>
 
 METHOD:
 1) A ground offensive by a company-sized TF with the following phases:<br>
@@ -99,21 +99,21 @@ ALLIED FORCES:
 1) OP-1: JTAC position
 N24 56.350 / E056 10.000 / 40R DN1585-5874 / ELEV 1270ft
 
-2) Friendly force South of LD (24 53.800 / E056 09.800 / 40R DN1548-5378 / ELEV 750ft consists of:
-2a) Artillery (x4 120mm mortars)
-2b) (x2) RECON teams on HMMWVs
-2c) (x2) assault groups consisting of (1x) ABRAMS + (1x) BRADLEY each
-2d) (x2)  mechanized platoons consissting of (1x) ABRAMS + (2x) BRADLEY each
-2e) SWITCH vehicle
-2f) TRIGGER (Watchtower)
+2) Friendly force South of LD (24 53.800 / E056 09.800 / 40R DN1548-5378 / ELEV 750ft consists of:<br>
+2a) Artillery (x4 120mm mortars) <br>
+2b) (x2) RECON teams on HMMWVs <br>
+2c) (x2) assault groups consisting of (1x) ABRAMS + (1x) BRADLEY each <br>
+2d) (x2)  mechanized platoons consissting of (1x) ABRAMS + (2x) BRADLEY each <br>
+2e) SWITCH vehicle <br>
+2f) TRIGGER (Watchtower) <br>
 
-(See screenshot of the friendly camp below)
+(See screenshot of the friendly camp below) <br>
 
 RESTRICTIONS:
 1) HIGHWAY and POWERLINES are civilian critical infrastructures. Avoid any cratering or other effects.
-2) Civilian population is still reported present in the AO:
-2a) Cluster munitions are prohibited
-2b) Restrict use oh HE / fragmantation warheads inside populated areas
+2) Civilian population is still reported present in the AO: <br>
+2a) Cluster munitions are prohibited <br>
+2b) Restrict use oh HE / fragmantation warheads inside populated areas <br>
 3) Avoid cratering of main roads in the AO to facilitate a rapid advance of ground assets to their objectives
 
 ADMIN:
