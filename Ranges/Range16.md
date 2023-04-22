@@ -72,6 +72,53 @@ With no friendly forces that are combat-capable, it is up to the CAS assets to e
 1) Target any enemy forces closing in on VENOMs location
 2) Ensure the exfil route for VENOM is cleared of any threats
 
+## RANGE 16 CAS PRESET SCENARIO #3
+TBD
+
+## RANGE 16 CAS PRESET SCENARIO #4
+
+SITUATION:
+1) INTL has indicated an increased presence of ISIS forces in the north of UAE.
+2) ISIS has been using the highway to move troops and supplies from the coastal area to the west.
+3) JFC has ordered the highway be cut off to disrupt ISIS movements in the area
+4) A taskforce is setting up at the LD (Line of Departure) to advance into the town of MUNAY with the following goals:
+4a) Eliminate ISIS presence in the town
+4b) Cut off the highway and block any ISIS movements in the area
+
+METHOD:
+1) A ground offensive by a company-sized TF with the following phases:<br>
+1a) Seize OBJ-A and OBJ-B and assume positions to defend against possible ISIS reinforcements from the West as well a support the further advance of the rest of the TF further North.<br>
+1b) Advance through the town and seize OBJ-C and OBJ-D. Prevent any movements on the highway<br>
+1c) Eliminate ISIS forces in the town.<br>
+
+ENEMY:
+1) ISIS forces in the AO are evaluated at up to 300 operatives equiped with RPGs, small arms, technical vehicles as well as stolen military equipment (MBTs IFVs, artillery and short range air defenses)
+2) Enemy is expected to fight hard trying to maintain hold of the town. Expect gurrillah tactics and use of civilian population as human shields
+
+ALLIED FORCES:
+1) OP-1: JTAC position
+N24 56.350 / E056 10.000 / 40R DN1585-5874 / ELEV 1270ft
+
+2) Friendly force South of LD (24 53.800 / E056 09.800 / 40R DN1548-5378 / ELEV 750ft ???  consists of:
+2a) Artillery (x4 120mm mortars)
+2b) (x2) RECON teams on HMMWVs
+2c) (x2) assault groups consisting of (1x) ABRAMS + (1x) BRADLEY each
+2d) (x2)  mechanized platoons consissting of (1x) ABRAMS + (2x) BRADLEY each
+2e) SWITCH vehicle
+2f) TRIGGER (Watchtower)
+
+RESTRICTIONS:
+1) HIGHWAY and POWERLINES are civilian critical infrastructures. Avoid any cratering or other effects.
+2) Civilian population is still reported present in the AO:
+2a) Cluster munitions are prohibited
+2b) Restrict use oh HE / fragmantation warheads inside populated areas
+3) Avoid cratering of main roads in the AO to facilitate a rapid advance of ground assets to their objectives
+
+ADMIN:
+1) Assault groups (See 2c above) can be autonomously drive to seize OBJ-A and OBJ-B by driving the SWITCH vehicle accross the road towards the nearby watchtower (TRIGGER). All other BLUE vehicles are manutally controllable
+2) All BLUE units are under WEAPONS HOLD and will not fire at RED targets. They can be set to WEAPONS FREE by the JTAC/GFC
+3) All RED units are set to engage BLUE ground units only (Keeping air assets safe to facilitate training)
+
 <br>
 ## Back
 [Back to frontpage](https://132nd-vwing.github.io/ATRM_Brief/)
