@@ -116,10 +116,10 @@ RESTRICTIONS:
 2b) Restrict use oh HE / fragmantation warheads inside populated areas <br>
 3) Avoid cratering of main roads in the AO to facilitate a rapid advance of ground assets to their objectives
 
-ADMIN:
-1) Assault groups (See 2c above) can be autonomously drive to seize OBJ-A and OBJ-B by driving the SWITCH vehicle accross the road towards the nearby watchtower (TRIGGER). All other BLUE vehicles are manutally controllable
-2) All BLUE units are under WEAPONS HOLD and will not fire at RED targets. They can be set to WEAPONS FREE by the JTAC/GFC
-3) All RED units are set to engage BLUE ground units only (Keeping air assets safe to facilitate training)
+ADMIN: <br>
+1) Assault groups (See 2c above) can be autonomously drive to seize OBJ-A and OBJ-B by driving the SWITCH vehicle accross the road towards the nearby watchtower (TRIGGER). All other BLUE vehicles are manutally controllable. <br>
+2) All BLUE units are under WEAPONS HOLD and will not fire at RED targets. They can be set to WEAPONS FREE by the JTAC/GFC <br>
+3) All RED units are set to engage BLUE ground units only (Keeping air assets safe to facilitate training) <br>
 
 ![ATRM R16 CAS_PRESET-4](https://user-images.githubusercontent.com/42184209/233787813-5cceb6ec-ff14-4f8b-9e6b-17c8d5a19537.png)
 ![ATRM R16 CAS_PRESET-4 User manual v2](https://user-images.githubusercontent.com/42184209/233788030-ece6c8d1-68b6-4884-a71f-62896c5a32a7.png)
