@@ -94,6 +94,46 @@ The basic preset scenario sets some static units at the range and is suitable fo
 
 
 
+## CAS pre-set scenario #4
+**SITUATION:**
+COIN scenario with multiple friendlies and enemy units in close proximity.
+AO is centered around small villages around N24 33.0 / E056 06.0
+Details TBD
+
+
+## CAS pre-set scenario #5
+**SITUATION:**
+1) Insurgents have launched an offensive against allied forces to the EAST.<br>
+2) The attack started with a suicide bomber driving a civilian vehicle loaded with explosives (VBIED) into the garrison outpost. This was soon followed by a massive offensive along the MSR from the NE.<br>
+3) The friendly platoon stationed in the area retreated to the Western villages in an attempt to stabilize the FLOT.<br>
+4) A small group of personnel from the outpost was able to escape but remained stranded in a civilian house at N24 39.4 / E056 06.9 with ISIS units already at close proximity.<br>
+5) The insurgents are making use - in addition to suicide bombers - with technicals, artillery (rockets and mortars) and a mix of IFVs and MBTs stolen from the army.<br>
+6) Air defenses are likely to include AAA and STRELAs.<br>
+7) Additional enemy forces are reported to be on underway from the NORTH-EAST to support the offensive.<br>
+8) A friendly TF consisting of M1 ABRAMS and BRADLEYs is gearing up to the West at N24 36.8 / E056 03.5 and is ready to advance into the area, reinforce the friendlies on site and secure the area.<br>
+9) A PALADIN artillery battery is already deployed at N24 32.8 / E056 05.8 and is able to provide fire support.
+
+**OBJECTIVES (When GFC role is UNMANNED):**
+1) Hold off the enemy offensive.<br>
+2) Eliminate enemy presence in the villages and block enemy reinforcements.<br>
+
+**OBJECTIVES (When GFC role is manned):**
+1) Hold off the enemy offensive.<br>
+2) Secure stranded friendlies.<br>
+3) Advance friendly TF to vantage points East of the villages to provide defense against further enemy attacks.<br>
+
+**CAS PRESET 5 ADMIN:**
+1) **CAUTION:** <br>
+Live fire is being used in this scenario by enemy in the form of sporadic machineguns and artillery. While the fires do not TARGET blue air-assets, exercise caution when flying close / low above the AO.
+
+2) Available positions for JTACs:<br>
+2a) Any one of the friendly vehicles at the site (STRYKERs or HMMWVs)<br>
+2b) The stranded group (portraied by MANPADs) <br>
+2c) JTAC position (MANPADs) in overwatch at N24 38.6 E056 06.9 <br>
+
+![RANGE-14 PRESET-5](https://github.com/132nd-vWing/ATRM_Brief/assets/42184209/a4317706-44fc-4192-bba7-e4c480778b3d)
+
+
 ## AR Scenario
 - AR, Range 14:  [AR Mission](/ATRM_Brief/Pages/R14_AR_TASK.html)
 
