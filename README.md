@@ -38,6 +38,7 @@ Available taskings/scenarios:  <!--- sorted by tasking type, then range -->
 - Convoy Escort, Range 6: [Convoy escort mission](/ATRM_Brief/Pages/R6_ESCORT_TASK.html) 
 - MQ checkout, Range 12: [FW Fast jet MQ checkout](/ATRM_Brief/Pages/R12_MQ_checkout_task.html) 
 - Strike, Range 12: [Range 12 Strike targets](/ATRM_Brief/Pages/R12_Strike_task.html) 
+- SME SAT course, Range 19: [Scenario Range 19](https://cloud.132virtualwing.org/s/QrDs5jfz9TkXWt8)
 
 ## RANGES
 [Range 1](/ATRM_Brief/Ranges/Range1.html) | 
@@ -56,6 +57,7 @@ Available taskings/scenarios:  <!--- sorted by tasking type, then range -->
 [Range 15](/ATRM_Brief/Ranges/Range15.html)  | 
 [Range 16](/ATRM_Brief/Ranges/Range16.html)  |
 [Range 18](/ATRM_Brief/Ranges/Range18.html)  |
+[Range 19](/ATRM_Brief/Ranges/Range19.html)  |
 
 
 ![Ranges and MOAs](/Pictures/Range_MOA_overview.PNG)
