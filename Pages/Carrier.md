@@ -2,7 +2,7 @@
 
 ## BLUE Carrier
 - CVN-73 George Washington
-- TACAN: 73X
+- TACAN: 13X
 - ICLS: 13
 - AI ATC (Lights): 309.5
 - Marshall: 309.9
